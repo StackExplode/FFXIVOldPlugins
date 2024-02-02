@@ -21,6 +21,69 @@
       "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
       "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
     ]
+  },
+  {
+    "AcceptsFeedback": false,
+    "ApplicableVersion": "any",
+    "AssemblyVersion": "0.1.0.1237",
+    "Author": "Asteria Nocturna",
+    "CanUnloadAsync": false,
+    "CategoryTags": [
+      "utility"
+    ],
+    "Changelog": "ca1a86c: \u2699\ufe0f Deploy Voiceroid2Talker \"0.1.0-beta.1107.333794c.20230427\"\n3d99161: \u2699\ufe0f Deploy PowerUtils \"0.1.0-beta.1107.333794c.20230427\"\n8036316: \u2699\ufe0f Deploy Debugger \"0.1.0-beta.1107.333794c.20230427\"\n8fe814b: \ud83d\udd27 chore(renovate): update config\n333794c: \ud83e\uddf9 dotnet format\n8e5976a: chore(deps): update dependency dalamudpackager to v2.1.11\nd41fdc1: feat(Plugins): add workflows\n2e9139e: \u2699\ufe0f Regenerate PluginMaster\na662a25: fix(PluginRepo): permission\n21c57a7: \u2699\ufe0f Deploy AetheryteLinkInChat \"0.1.0-beta.1101.b494154.20230427\"\nb494154: fix: cp\nad64afc: fix: CI\na2512df: fix(Common): set AssemblyName to Dalamud.Divination.Common\ndfd214d: refactor(Plugins): use shorter names\nb500fec: upgrade(Plugins): .NET 7\n3b89b23: refactor(Plugins): move solution\n2e4a273: \ud83e\uddf9 dotnet format\nd7a4431: refactor(Common): move solution\n05639ed: chore(PluginRepo): load manifest from json prefer than zip\nc465594: cleanup(PluginRepo): delete old distrib\n888b24d: refactor(PluginRepo): rename plugins\n40e38db: Merge remote-tracking branch 'origin/master'\n0964503: refactor(Plugins): rename\n0aa1aa3: Merge pull request #1 from SlashNephy/renovate/configure\n\nConfigure Renovate\n0af4e6d: Merge remote-tracking branch 'origin/master'\nb6aa1c6: feat(AetheryteLinkInChat): add CI\n47edde5: feat(PluginRepo): add CI\nb696a01: \ud83e\uddf9 dotnet format\nb2f4c24: feat(Common): add CI\n7430ca8: feat(SseServer): add CI",
+    "DalamudApiLevel": 8,
+    "Description": "Add a link to teleport to the nearest aetheryte into map link in chat.",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/StackExplode/FFXIVOldPlugins/master/releases/AetheryteLinkInChat.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/StackExplode/FFXIVOldPlugins/master/releases/AetheryteLinkInChat.zip",
+    "IconUrl": null,
+    "ImageUrls": [],
+    "InternalName": "AetheryteLinkInChat",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdated": 1682600829,
+    "LoadPriority": 0,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "Name": "Divination.AetheryteLinkInChat",
+    "Punchline": "Quick teleport for Mob Hunting",
+    "RepoUrl": "https://github.com/SlashNephy/Divination",
+    "Tags": [
+      "teleporter"
+    ],
+    "TestingAssemblyVersion": "0.1.0.1237"
+  },
+   {
+    "AcceptsFeedback": false,
+    "ApplicableVersion": "any",
+    "AssemblyVersion": "0.1.0.1237",
+    "Author": "Asteria Nocturna",
+    "CanUnloadAsync": false,
+    "CategoryTags": [
+      "utility"
+    ],
+    "Changelog": "9e6d0b2: \u2699\ufe0f Deploy InstanceIDViewer \"0.1.0-beta.1687.8e7ac38.20231116\"\n7d67831: \u2699\ufe0f Deploy TwitterIntegration \"0.1.0-beta.1687.8e7ac38.20231116\"\n8e7ac38: updade DalamudApiLevel to 9\n0bb4991: chore(deps): update dependency @slashnephy/prettier-config to v1.0.42\ne6bfeca: fix(deps): update module github.com/pressly/goose/v3 to v3.16.0\n7301899: \ud83e\uddf9 yarn format\n3d54b3b: broaden expept\n1de6f2e: \u2699\ufe0f Deploy FaloopIntegration \"0.1.0-beta.1681.7768787.20231114\"\n7768787: chore(deps): update dependency anglesharp to v1.0.6\n4984b81: fix(deps): update dependency i18next-browser-languagedetector to v7.2.0\nc534b18: chore(deps): update dependency @slashnephy/eslint-config to v2.0.59\ndbe3d51: fix(deps): update module github.com/labstack/gommon to v0.4.1\n182dac8: chore(deps): update dependency @slashnephy/prettier-config to v1.0.41\nc96c860: chore(deps): update dependency @slashnephy/eslint-config to v2.0.58\n07ffb1b: chore(deps): lock file maintenance\n2f56dd4: chore(deps): update dependency @slashnephy/prettier-config to v1.0.40\nb9d71c6: chore(deps): update dependency @slashnephy/eslint-config to v2.0.57\n9dc2b42: chore(deps): update react monorepo\nc0e7c60: fix(deps): update module github.com/labstack/echo/v4 to v4.11.3\n340dd74: chore(deps): update golang docker tag to v1.21.4\n8d70f9e: chore(deps): update dependency @slashnephy/prettier-config to v1.0.39\n9e006ed: chore(deps): update dependency @slashnephy/eslint-config to v2.0.56\n03d38a2: chore(deps): update dependency @slashnephy/eslint-config to v2.0.55\nd0ec55b: chore(deps): update dependency @slashnephy/prettier-config to v1.0.38\n0ad9633: chore(deps): update dependency @slashnephy/eslint-config to v2.0.54\n2299b8e: chore(deps): update dependency eslint to v8.53.0\ndceb921: chore(deps): update dependency @slashnephy/prettier-config to v1.0.37\ne34fcd2: chore(deps): update dependency @slashnephy/eslint-config to v2.0.53\n2cbd5e4: chore(deps): update dependency @slashnephy/prettier-config to v1.0.36\n05c4a68: chore(deps): update dependency @slashnephy/eslint-config to v2.0.52",
+    "DalamudApiLevel": 8,
+    "Description": "Simple plugin to just add /calc command.",
+    "DownloadCount": 116,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/StackExplode/FFXIVOldPlugins/master/releases/Calculator.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/StackExplode/FFXIVOldPlugins/master/releases/Calculator.zip",
+    "IconUrl": null,
+    "ImageUrls": [],
+    "InternalName": "Calculator",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdated": 1700110299,
+    "LoadPriority": 0,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "Name": "Divination.Calculator",
+    "Punchline": "/calc 33 - 4",
+    "RepoUrl": "https://github.com/SlashNephy/Divination",
+    "Tags": [
+      "utility"
+    ],
+    "TestingAssemblyVersion": "0.1.0.1237"
   }
 	
 ]
