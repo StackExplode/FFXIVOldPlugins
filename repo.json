@@ -84,6 +84,27 @@
       "utility"
     ],
     "TestingAssemblyVersion": "0.1.0.1237"
+  },
+  {
+    "Author": "Haselnussbomber",
+    "Name": "LeveHelper",
+    "InternalName": "LeveHelper",
+    "AssemblyVersion": "2.0.9",
+    "Description": "A little helper to check which Levequests have been completed and which are missing.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Haselnussbomber/LeveHelper",
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "A little helper for Levequests.",
+    "AcceptsFeedback": true,
+    "Changelog": "- Changed: The plugin now uses Dalamud's language setting and will fall back to English if there's no translation available. If you haven't changed the language in LeveHelper itself, nothing will change for you.\n- Fixed: Issuer for Blood in the Water at level 68 was incorrect.  \n  If someone could update it on the Gamer Escape's wiki, that would be awesome. I can't because my ISPs IP address is listed on DNSBL.",
+    "DownloadCount": 465,
+    "LastUpdate": 1706196904,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.9/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.0.9/latest.zip"
   }
 	
 ]
