@@ -1,21 +1,21 @@
-[
+ï»¿[
   {
     "Author": "Sevii",
     "Name": "Material UI",
-    "Description": "Auto updating Material UI with customizable accent color and more. Icon by Mek",
+    "Description": "Auto updating Material UI with customizable accent color and more. Icon by Meconate",
     "InternalName": "MaterialUI",
-    "AssemblyVersion": "1.4.12",
-    "TestingAssemblyVersion": "1.4.12",
+    "AssemblyVersion": "1.4.9",
+    "TestingAssemblyVersion": "1.4.9",
     "RepoUrl": "https://github.com/Sevii77/ffxiv_materialui_accent",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 9,
+    "DalamudApiLevel": 8,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/Sevii77/ffxiv_materialui_accent/raw/master/release.zip",
-    "DownloadLinkTesting": "https://github.com/Sevii77/ffxiv_materialui_accent/raw/master/release.zip",
-    "DownloadLinkUpdate": "https://github.com/Sevii77/ffxiv_materialui_accent/raw/master/release.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Sevii77/ffxiv_materialui_accent/7874dbfe0e174c91a19d0f10c3fd5e9225797177/release.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Sevii77/ffxiv_materialui_accent/7874dbfe0e174c91a19d0f10c3fd5e9225797177/release.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Sevii77/ffxiv_materialui_accent/7874dbfe0e174c91a19d0f10c3fd5e9225797177/release.zip",
     "IconUrl": "https://raw.githubusercontent.com/Sevii77/ffxiv_materialui_accent/master/images/icon.png",
     "Tags": [
       "ui",
@@ -156,8 +156,8 @@
   {
     "Author": "Ottermandias",
     "Name": "Glamourer",
-    "Punchline": "¸Ä±äºÍ±£´æÍæ¼ÒÍâ¹Û¡£",
-    "Description": "ÎªÍæ¼ÒÌá¹©¸ü¸Ä±£´æ×Ô¶¨ÒåÍâÃ²ºÍ×°±¸Íâ¹ÛµÄ¹¦ÄÜ¡£\n½«Ô¤ÀÀÑ¡ÏîÌí¼Óµ½ÁËPenumbraµÄ¡°Ä£×é-¸ü¸ÄÏîÄ¿¡±Ñ¡Ïî¿¨ÖĞ¡£\nĞèÒª°²×°²¢ÆôÓÃPenumbra²ÅÄÜ¹¤×÷¡£",
+    "Punchline": "æ”¹å˜å’Œä¿å­˜ç©å®¶å¤–è§‚ã€‚",
+    "Description": "ä¸ºç©å®¶æä¾›æ›´æ”¹ä¿å­˜è‡ªå®šä¹‰å¤–è²Œå’Œè£…å¤‡å¤–è§‚çš„åŠŸèƒ½ã€‚\nå°†é¢„è§ˆé€‰é¡¹æ·»åŠ åˆ°äº†Penumbraçš„â€œæ¨¡ç»„-æ›´æ”¹é¡¹ç›®â€é€‰é¡¹å¡ä¸­ã€‚\néœ€è¦å®‰è£…å¹¶å¯ç”¨Penumbraæ‰èƒ½å·¥ä½œã€‚",
     "Tags": [
       "Appearance",
       "Glamour",
@@ -182,7 +182,7 @@
     "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Glamourer/Glamourer_1.0.0.606.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Glamourer/Glamourer_1.0.0.606.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Glamourer/icon.png",
-    "Changelog": "1.0.0.606\n- ĞŞ¸´²¿·Ö°üº¬ÌØÊâ×Ö·ûµÄÍæ¼ÒµÄ ID ÎŞ·¨±»ÕıÈ·²¶»ñµÄÎÊÌâ£¬Ì¡µùà£à£¡£"
+    "Changelog": "1.0.0.606\n- ä¿®å¤éƒ¨åˆ†åŒ…å«ç‰¹æ®Šå­—ç¬¦çš„ç©å®¶çš„ ID æ— æ³•è¢«æ­£ç¡®æ•è·çš„é—®é¢˜ï¼Œç­çˆ¹å•µå•µã€‚"
   },
   {
     "Author": "Drahsid",
@@ -392,7 +392,7 @@
   {
     "Author": "Eternita",
     "Name": "AntiAfkKick",
-    "Punchline": "·ÀÖ¹¹Ò»ú±»×Ô¶¯ÌßÏÂÏß£¬°²×°ºóÉúĞ§£¬Ã»ÉèÖÃÏî¡£",
+    "Punchline": "é˜²æ­¢æŒ‚æœºè¢«è‡ªåŠ¨è¸¢ä¸‹çº¿ï¼Œå®‰è£…åç”Ÿæ•ˆï¼Œæ²¡è®¾ç½®é¡¹ã€‚",
     "Description": "",
     "InternalName": "AntiAfkKick-Dalamud",
     "AssemblyVersion": "2.1.0.3",
@@ -908,7 +908,7 @@
     "CategoryTags": [
       "utility"
     ],
-    "Changelog": "5e34ef2: Merge remote-tracking branch 'origin/master'\n\n# Conflicts:\n#\tDivination.AetheryteLinkInChat/AetheryteLinkInChatPlugin.cs\n3a75a44: add ConsiderTeleportsToOtherWorlds flag\n062e788: ?? dotnet format\ne434392: /teleportgc ¥³¥Ş¥ó¥É\nda5381b: ¥ï©`¥ë¥ÉÃû¤¬º¬¤Ş¤ì¤Æ¤¤¤¿ˆöºÏ¤Ë¤Ï¥ï©`¥ë¥Éég¥Æ¥ì¥İ¤ò¿¼‘]¤¹¤ë\n53b89df: ×îĞ¡‚¤òÏÂ¤²¤ë\nd579900: Merge pull request #12 from horoscope-dev/renovate/dalamud.divination.common-0.x\n\nUpdate dependency Dalamud.Divination.Common to v0.1.0-beta.216\ndb25e49: Update dependency Dalamud.Divination.Common to v0.1.0-beta.216\n9d054d0: Common ¸üĞÂ\ndd2b5f9: AetheryteList API ¤òÊ¹¤¦\nc70b494: ?? dotnet format\n4c541c9: ¥³¥¹¥ÈÕ{Õû\n9abc81d: AetherytePayload ¤ò×÷¤Ã¤¿\n368c9a9: DalamudLinkPayload ¤ò’·Èë¤¹¤ëÎ»ÖÃ¤ò‰ä¸ü\n81dff22: •ø¤­Şz¤à¥á¥Ã¥»©`¥¸¤òÓè¤á¸ÄĞĞ¤·¤Æ¤¢¤ë¤Î¤Ç¥¹¥Ú©`¥¹¤òÈ¡¤ê³ı¤¯±ØÒª¤Ï¤Ê¤¤\ncd513a2: fix loc on queued teleporting message\n51b6759: Merge remote-tracking branch 'origin/master'\n547f98b: ¥ß¥¹¤Ã¤Æ default ¤Ë¤Ê¤Ã¤Æ¤¿\n3febecf: ?? dotnet format\nfeeb6e7: ¥í©`¥«¥é¥¤¥º¤Î™CÄÜ¤ò Common ¤Ë×·¤¤¤ä¤Ã¤¿\n36c8e22: ?? dotnet format\nfaa11ba: Merge remote-tracking branch 'origin/master'\n\n# Conflicts:\n#\tDivination.AetheryteLinkInChat/AetheryteSolver.cs\n#\tDivination.AetheryteLinkInChat/Localize/Localization.cs\n#\tDivination.AetheryteLinkInChat/Teleporter.cs\n980c26e: ŒÏó¤Î ConditionFlag ¤ò×·¼Ó\nf67e06b: ¥­¥å©`¤Î¥Æ¥ì¥İ¤òŒgĞĞ¤¹¤ëˆöºÏ¤Ë¤â¥á¥Ã¥»©`¥¸¤ò³ö¤¹\nc57d8de: Update README.md\na473294: ¶¼ÊĞÄÚ¥¨©`¥Æ¥é¥¤¥È¤òÀûÓÃ¤¹¤ëˆöºÏ¤Ï¾àëx¥¼¥í\n56c1cf7: ?? dotnet format\n176ce9a: ¥Á¥ã¥Ã¥È¤Î¥Õ¥©©`¥Ş¥Ã¥È‰ä¸ü\nfd3a79a: ¥¨¥ê¥¢ÒÆ„Ó¤Ë¤Ï¥³¥¹¥È¤ò×ã¤¹\n9786355: ëO½Ó¥¨¥ê¥¢¤ò¿ç¤°×î¶Ì½UÂ·¤òÓ‹Ëã¤Ç¤­¤ë¤è¤¦¤Ë",
+    "Changelog": "5e34ef2: Merge remote-tracking branch 'origin/master'\n\n# Conflicts:\n#\tDivination.AetheryteLinkInChat/AetheryteLinkInChatPlugin.cs\n3a75a44: add ConsiderTeleportsToOtherWorlds flag\n062e788: ğŸ§¹ dotnet format\ne434392: /teleportgc ã‚³ãƒãƒ³ãƒ‰\nda5381b: ãƒ¯ãƒ¼ãƒ«ãƒ‰åãŒå«ã¾ã‚Œã¦ã„ãŸå ´åˆã«ã¯ãƒ¯ãƒ¼ãƒ«ãƒ‰é–“ãƒ†ãƒ¬ãƒã‚’è€ƒæ…®ã™ã‚‹\n53b89df: æœ€å°å€¤ã‚’ä¸‹ã’ã‚‹\nd579900: Merge pull request #12 from horoscope-dev/renovate/dalamud.divination.common-0.x\n\nUpdate dependency Dalamud.Divination.Common to v0.1.0-beta.216\ndb25e49: Update dependency Dalamud.Divination.Common to v0.1.0-beta.216\n9d054d0: Common æ›´æ–°\ndd2b5f9: AetheryteList API ã‚’ä½¿ã†\nc70b494: ğŸ§¹ dotnet format\n4c541c9: ã‚³ã‚¹ãƒˆèª¿æ•´\n9abc81d: AetherytePayload ã‚’ä½œã£ãŸ\n368c9a9: DalamudLinkPayload ã‚’æŒ¿å…¥ã™ã‚‹ä½ç½®ã‚’å¤‰æ›´\n81dff22: æ›¸ãè¾¼ã‚€ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ã‚’äºˆã‚æ”¹è¡Œã—ã¦ã‚ã‚‹ã®ã§ã‚¹ãƒšãƒ¼ã‚¹ã‚’å–ã‚Šé™¤ãå¿…è¦ã¯ãªã„\ncd513a2: fix loc on queued teleporting message\n51b6759: Merge remote-tracking branch 'origin/master'\n547f98b: ãƒŸã‚¹ã£ã¦ default ã«ãªã£ã¦ãŸ\n3febecf: ğŸ§¹ dotnet format\nfeeb6e7: ãƒ­ãƒ¼ã‚«ãƒ©ã‚¤ã‚ºã®æ©Ÿèƒ½ã‚’ Common ã«è¿½ã„ã‚„ã£ãŸ\n36c8e22: ğŸ§¹ dotnet format\nfaa11ba: Merge remote-tracking branch 'origin/master'\n\n# Conflicts:\n#\tDivination.AetheryteLinkInChat/AetheryteSolver.cs\n#\tDivination.AetheryteLinkInChat/Localize/Localization.cs\n#\tDivination.AetheryteLinkInChat/Teleporter.cs\n980c26e: å¯¾è±¡ã® ConditionFlag ã‚’è¿½åŠ \nf67e06b: ã‚­ãƒ¥ãƒ¼ã®ãƒ†ãƒ¬ãƒã‚’å®Ÿè¡Œã™ã‚‹å ´åˆã«ã‚‚ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ã‚’å‡ºã™\nc57d8de: Update README.md\na473294: éƒ½å¸‚å†…ã‚¨ãƒ¼ãƒ†ãƒ©ã‚¤ãƒˆã‚’åˆ©ç”¨ã™ã‚‹å ´åˆã¯è·é›¢ã‚¼ãƒ­\n56c1cf7: ğŸ§¹ dotnet format\n176ce9a: ãƒãƒ£ãƒƒãƒˆã®ãƒ•ã‚©ãƒ¼ãƒãƒƒãƒˆå¤‰æ›´\nfd3a79a: ã‚¨ãƒªã‚¢ç§»å‹•ã«ã¯ã‚³ã‚¹ãƒˆã‚’è¶³ã™\n9786355: éš£æ¥ã‚¨ãƒªã‚¢ã‚’è·¨ãæœ€çŸ­çµŒè·¯ã‚’è¨ˆç®—ã§ãã‚‹ã‚ˆã†ã«",
     "DalamudApiLevel": 7,
     "Description": "Add a link to teleport to the nearest aetheryte into map link in chat.",
     "DownloadLinkInstall": "https://slashnephy.github.io/Dalamud.DivinationPluginRepo/dist/stable/Divination.AetheryteLinkInChat/latest.zip",
@@ -935,7 +935,7 @@
     "CategoryTags": [
       "utility"
     ],
-    "Changelog": "c0aab4f: Merge pull request #3 from horoscope-dev/renovate/gitversion.tool-5.x\n\nchore(deps): update dependency gitversion.tool to v5.11.1\na3438d0: Merge pull request #12 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1\n26b4ffa: Merge pull request #2 from horoscope-dev/renovate/dalamudpackager-2.x\n\nchore(deps): update dependency dalamudpackager to v2.1.8\n2ce1f36: ?? dotnet format\n485afbe: chore(deps): update dependency gitversion.tool to v5.11.1\n62e0bb9: chore(deps): update dependency gitversion.msbuild to v5.11.1\n1c32ca6: chore(deps): update dependency dalamudpackager to v2.1.8\n17dadef: ?? dotnet format\n90f0198: API 7\nbc3e948: ?? chore(renovate): update config\n70a64f8: feat: Support Patch 6.1\ndabbe6d: feat: Support Dalamud API 5",
+    "Changelog": "c0aab4f: Merge pull request #3 from horoscope-dev/renovate/gitversion.tool-5.x\n\nchore(deps): update dependency gitversion.tool to v5.11.1\na3438d0: Merge pull request #12 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1\n26b4ffa: Merge pull request #2 from horoscope-dev/renovate/dalamudpackager-2.x\n\nchore(deps): update dependency dalamudpackager to v2.1.8\n2ce1f36: ğŸ§¹ dotnet format\n485afbe: chore(deps): update dependency gitversion.tool to v5.11.1\n62e0bb9: chore(deps): update dependency gitversion.msbuild to v5.11.1\n1c32ca6: chore(deps): update dependency dalamudpackager to v2.1.8\n17dadef: ğŸ§¹ dotnet format\n90f0198: API 7\nbc3e948: ğŸ”§ chore(renovate): update config\n70a64f8: feat: Support Patch 6.1\ndabbe6d: feat: Support Dalamud API 5",
     "DalamudApiLevel": 7,
     "Description": "Simple plugin to just add /calc command.",
     "DownloadLinkInstall": "https://slashnephy.github.io/Dalamud.DivinationPluginRepo/dist/stable/Divination.Calculator/latest.zip",
@@ -962,7 +962,7 @@
     "CategoryTags": [
       "utility"
     ],
-    "Changelog": "a84b585: Merge pull request #3 from horoscope-dev/renovate/gitversion.tool-5.x\n\nchore(deps): update dependency gitversion.tool to v5.11.1\n2f79521: Merge pull request #12 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1\n9db02f8: ?? dotnet format\nad40198: chore(deps): update dependency gitversion.msbuild to v5.11.1\nfeb14f8: chore(deps): update dependency gitversion.tool to v5.11.1\nfc5a6c9: SeIconChar ¤â±íÊ¾¿ÉÄÜ¤Ë¤¹¤ë\nb7fdf26: ¥á¥â¥ê¹ ‡ì¤ò‰ä¸ü\nfc19909: ?? dotnet format\naa8d5b2: ¥ê¥Õ¥¡¥¯¥¿¥ê¥ó¥°\n5d555ef: Merge pull request #2 from horoscope-dev/renovate/dalamudpackager-2.x\n\nchore(deps): update dependency dalamudpackager to v2.1.8\n4473e28: chore(deps): update dependency dalamudpackager to v2.1.8\nad4d625: Template ¤Î‰ä¸ü¤Ë×·¾\n688db78: ?? chore(renovate): update config\n6aecbc7: feat: Support Patch 6.1\n8a9c2bb: fix: result won't show due to queue\n3181092: feat: log on matched packets\n13ee3a6: fix: network value filtering\n3a68e91: feat: add Clear button\n2213911: fix: index is no longer skipped\ne3c613d: fix: network data can overflow\n97079b1: feat: show Opcode\n4e31c81: fix: priority between LocalPlayer and Target\n0b3ca6c: fix: Enum.GetName receives non-enum accidentally\nc451ef4: fix: allow unsafe codes\n39638e2: feat: readable memory data view",
+    "Changelog": "a84b585: Merge pull request #3 from horoscope-dev/renovate/gitversion.tool-5.x\n\nchore(deps): update dependency gitversion.tool to v5.11.1\n2f79521: Merge pull request #12 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1\n9db02f8: ğŸ§¹ dotnet format\nad40198: chore(deps): update dependency gitversion.msbuild to v5.11.1\nfeb14f8: chore(deps): update dependency gitversion.tool to v5.11.1\nfc5a6c9: SeIconChar ã‚‚è¡¨ç¤ºå¯èƒ½ã«ã™ã‚‹\nb7fdf26: ãƒ¡ãƒ¢ãƒªç¯„å›²ã‚’å¤‰æ›´\nfc19909: ğŸ§¹ dotnet format\naa8d5b2: ãƒªãƒ•ã‚¡ã‚¯ã‚¿ãƒªãƒ³ã‚°\n5d555ef: Merge pull request #2 from horoscope-dev/renovate/dalamudpackager-2.x\n\nchore(deps): update dependency dalamudpackager to v2.1.8\n4473e28: chore(deps): update dependency dalamudpackager to v2.1.8\nad4d625: Template ã®å¤‰æ›´ã«è¿½å¾“\n688db78: ğŸ”§ chore(renovate): update config\n6aecbc7: feat: Support Patch 6.1\n8a9c2bb: fix: result won't show due to queue\n3181092: feat: log on matched packets\n13ee3a6: fix: network value filtering\n3a68e91: feat: add Clear button\n2213911: fix: index is no longer skipped\ne3c613d: fix: network data can overflow\n97079b1: feat: show Opcode\n4e31c81: fix: priority between LocalPlayer and Target\n0b3ca6c: fix: Enum.GetName receives non-enum accidentally\nc451ef4: fix: allow unsafe codes\n39638e2: feat: readable memory data view",
     "DalamudApiLevel": 7,
     "Description": "Tiny tool to inspect game...",
     "DownloadLinkInstall": "https://slashnephy.github.io/Dalamud.DivinationPluginRepo/dist/stable/Divination.Debugger/latest.zip",
@@ -990,7 +990,7 @@
     "CategoryTags": [
       "social"
     ],
-    "Changelog": "675aa21: Common ¸üĞÂ\n34ce59f: Dalamud ¤¬Ìá¹©¤¹¤ë Newtonsoft.Json ¤òÊ¹¤¦\n9e1fdec: Merge pull request #15 from horoscope-dev/renovate/discordrichpresence-1.x\n\nUpdate dependency DiscordRichPresence to v1.1.3.18\n0d30f64: Merge pull request #13 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nUpdate dependency GitVersion.MsBuild to v5.11.1\nede5fab: Merge pull request #14 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1\nf98ebfc: Update dependency DiscordRichPresence to v1.1.3.18\n97ceb0f: ¥ê¥İ¥¸¥È¥ê‰ä¸ü\ne51c076: ?? dotnet format\nf51539c: Update dependency gitversion.tool to v5.11.1\nb2ba067: Update dependency GitVersion.MsBuild to v5.11.1\n6a4dab2: Update README\ndae271d: Merge pull request #12 from horoscope-dev/renovate/discordrichpresence-1.x\n\nUpdate dependency DiscordRichPresence to v1.1.1.14\ncade51e: Update dependency DiscordRichPresence to v1.1.1.14\nf5f8ed5: ?? dotnet format\n4c36da1: Reusable workflows ¤òÊ¹¤¦\n7d4b5fe: ¥¯¥ê©`¥ó¥¢¥Ã¥×\nd5fead1: ¥Ñ¥¹ĞŞÕı\n82c55ad: gitversion.json ¤òÕi¤à\nd1d912b: ¥Ğ©`¥¸¥ç¥ó‘éÂÔ¤ò‰ä¸ü\n12fcc04: ¥¢¥¯¥·¥ç¥ó‰ä¤¨¤Æ¤ß¤ë\n8788afe: ¥Ğ©`¥¸¥ç¥óÇéˆó¤Î±íÓ›¤òĞŞÕı\n4e068da: csproj ¤Ë TargetFramework ¤ò•ø¤«¤Ê¤¤\n5555f4c: ?? dotnet format\n6e294d7: Dalamud 7\n773ad0a: Common ¤ò Nuget ½UÓÉ¤Ç²ÎÕÕ¤¹¤ë\n1b9d765: ?? chore(renovate): update config\nc250b99: re-enable .NET6\n75b16f2: Update Common\n82e9aa4: Merge branch 'master' of https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration\n5d2c35b: Update DiscordIntegrationPlugin.cs",
+    "Changelog": "675aa21: Common æ›´æ–°\n34ce59f: Dalamud ãŒæä¾›ã™ã‚‹ Newtonsoft.Json ã‚’ä½¿ã†\n9e1fdec: Merge pull request #15 from horoscope-dev/renovate/discordrichpresence-1.x\n\nUpdate dependency DiscordRichPresence to v1.1.3.18\n0d30f64: Merge pull request #13 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nUpdate dependency GitVersion.MsBuild to v5.11.1\nede5fab: Merge pull request #14 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1\nf98ebfc: Update dependency DiscordRichPresence to v1.1.3.18\n97ceb0f: ãƒªãƒã‚¸ãƒˆãƒªå¤‰æ›´\ne51c076: ğŸ§¹ dotnet format\nf51539c: Update dependency gitversion.tool to v5.11.1\nb2ba067: Update dependency GitVersion.MsBuild to v5.11.1\n6a4dab2: Update README\ndae271d: Merge pull request #12 from horoscope-dev/renovate/discordrichpresence-1.x\n\nUpdate dependency DiscordRichPresence to v1.1.1.14\ncade51e: Update dependency DiscordRichPresence to v1.1.1.14\nf5f8ed5: ğŸ§¹ dotnet format\n4c36da1: Reusable workflows ã‚’ä½¿ã†\n7d4b5fe: ã‚¯ãƒªãƒ¼ãƒ³ã‚¢ãƒƒãƒ—\nd5fead1: ãƒ‘ã‚¹ä¿®æ­£\n82c55ad: gitversion.json ã‚’èª­ã‚€\nd1d912b: ãƒãƒ¼ã‚¸ãƒ§ãƒ³æˆ¦ç•¥ã‚’å¤‰æ›´\n12fcc04: ã‚¢ã‚¯ã‚·ãƒ§ãƒ³å¤‰ãˆã¦ã¿ã‚‹\n8788afe: ãƒãƒ¼ã‚¸ãƒ§ãƒ³æƒ…å ±ã®è¡¨è¨˜ã‚’ä¿®æ­£\n4e068da: csproj ã« TargetFramework ã‚’æ›¸ã‹ãªã„\n5555f4c: ğŸ§¹ dotnet format\n6e294d7: Dalamud 7\n773ad0a: Common ã‚’ Nuget çµŒç”±ã§å‚ç…§ã™ã‚‹\n1b9d765: ğŸ”§ chore(renovate): update config\nc250b99: re-enable .NET6\n75b16f2: Update Common\n82e9aa4: Merge branch 'master' of https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration\n5d2c35b: Update DiscordIntegrationPlugin.cs",
     "DalamudApiLevel": 7,
     "Description": "Dalamud Plugin to support Rich Presence for FFXIV.",
     "DownloadLinkInstall": "https://slashnephy.github.io/Dalamud.DivinationPluginRepo/dist/stable/Divination.DiscordIntegration/latest.zip",
@@ -1018,7 +1018,7 @@
       "social",
       "utility"
     ],
-    "Changelog": "9c56b60: Merge remote-tracking branch 'origin/master'\n3eee367: ÊÜĞÅ¤·¤Æ¤¤¤Ê¤¤Ó‘·¥ˆó¸æ¤ò·Ç±íÊ¾¤Ë¤¹¤ë¥ª¥×¥·¥ç¥ó\ndda6a1f: ?? dotnet format\n1c949fc: ’ˆˆ¥Ğ©`¥¸¥ç¥ó¤Ëê¤¸¤Æ¥Õ¥£¥ë¥¿©`¤Ç¤­¤ë¤è¤¦¤Ë\n890454d: Merge remote-tracking branch 'origin/master'\n12b6ff2: ¥Ñ©`¥Æ¥£Ä¼¼¯¤òüÖ¹\n87be32a: ?? dotnet format\naa0c69a: main.js ¤ËÂñ¤áŞz¤Ş¤ì¤¿ JSON ¤òÕi¤ßÈ¡¤ë\n0c13f30: Session\n7a25bab: ¥é¥ó¥¯¤Ëê¤¸¤¿Ó›ºÅ¤òÊ¹¤¦¤è¤¦¤ËĞŞÕı\n27ebc30: ˆó¸æÕßÃû¤¬¤¢¤ì¤ĞÊ¹¤¦\nbd12183: Í¬¤¸¥Ñ©`¥Æ¥£Ä¼¼¯¤ÏŸoÒ•\n3d3a520: ×Ô·Ö¤Î¥Ñ©`¥Æ¥£Ä¼¼¯¤ÏŸoÒ•\nad8b5df: ¥³¥ó¥Æ¥ó¥ÄÖĞ¤ËÍ¨Öª¤òŸo„¿»¯¤¹¤ëÔO¶¨¤ò×·¼Ó\n66fb2c7: ¥ê¥Õ¥¡¥¯¥¿¥ê¥ó¥°\n2a38ff7: Merge remote-tracking branch 'origin/master'\n0d8490a: ¥Ñ©`¥Æ¥£Ä¼¼¯¤ËŒê\n6ab1db2: ?? dotnet format\n5805511: ÔO¶¨¤òÕûÀí\n82aad7b: 10ÃëÒÔÉÏ¤Î¤È¤­¤ËÃëÊı¤ò³ö¤¹\n4f9dc76: Merge remote-tracking branch 'origin/master'\ndbf9970: ¥¿¥¤¥à¥¾©`¥ó¤òĞŞÕı\nee6f83b: ?? dotnet format\na785e82: Merge remote-tracking branch 'origin/master'\neb2d307: ¥Ç¥Ğ¥Ã¥°¥í¥°¤ò×·¼Ó\n008ce6b: Í¬Ãû¤Î¥¤¥Ù¥ó¥È¤ËŒ¤·¤ÆËû¤Ë¥Ï¥ó¥É¥é©`¤òÊÜ¤±È¡¤ì¤Ê¤¤¤è¤¦¤À¤Ã¤¿\n3ce229e: Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1\n1ee9d92: Update dependency gitversion.tool to v5.11.1\nffe49d7: ?? dotnet format\ne0f8938: Publish",
+    "Changelog": "9c56b60: Merge remote-tracking branch 'origin/master'\n3eee367: å—ä¿¡ã—ã¦ã„ãªã„è¨ä¼å ±å‘Šã‚’éè¡¨ç¤ºã«ã™ã‚‹ã‚ªãƒ—ã‚·ãƒ§ãƒ³\ndda6a1f: ğŸ§¹ dotnet format\n1c949fc: æ‹¡å¼µãƒãƒ¼ã‚¸ãƒ§ãƒ³ã«å¿œã˜ã¦ãƒ•ã‚£ãƒ«ã‚¿ãƒ¼ã§ãã‚‹ã‚ˆã†ã«\n890454d: Merge remote-tracking branch 'origin/master'\n12b6ff2: ãƒ‘ãƒ¼ãƒ†ã‚£å‹Ÿé›†ã‚’å»ƒæ­¢\n87be32a: ğŸ§¹ dotnet format\naa0c69a: main.js ã«åŸ‹ã‚è¾¼ã¾ã‚ŒãŸ JSON ã‚’èª­ã¿å–ã‚‹\n0c13f30: Session\n7a25bab: ãƒ©ãƒ³ã‚¯ã«å¿œã˜ãŸè¨˜å·ã‚’ä½¿ã†ã‚ˆã†ã«ä¿®æ­£\n27ebc30: å ±å‘Šè€…åãŒã‚ã‚Œã°ä½¿ã†\nbd12183: åŒã˜ãƒ‘ãƒ¼ãƒ†ã‚£å‹Ÿé›†ã¯ç„¡è¦–\n3d3a520: è‡ªåˆ†ã®ãƒ‘ãƒ¼ãƒ†ã‚£å‹Ÿé›†ã¯ç„¡è¦–\nad8b5df: ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ä¸­ã«é€šçŸ¥ã‚’ç„¡åŠ¹åŒ–ã™ã‚‹è¨­å®šã‚’è¿½åŠ \n66fb2c7: ãƒªãƒ•ã‚¡ã‚¯ã‚¿ãƒªãƒ³ã‚°\n2a38ff7: Merge remote-tracking branch 'origin/master'\n0d8490a: ãƒ‘ãƒ¼ãƒ†ã‚£å‹Ÿé›†ã«å¯¾å¿œ\n6ab1db2: ğŸ§¹ dotnet format\n5805511: è¨­å®šã‚’æ•´ç†\n82aad7b: 10ç§’ä»¥ä¸Šã®ã¨ãã«ç§’æ•°ã‚’å‡ºã™\n4f9dc76: Merge remote-tracking branch 'origin/master'\ndbf9970: ã‚¿ã‚¤ãƒ ã‚¾ãƒ¼ãƒ³ã‚’ä¿®æ­£\nee6f83b: ğŸ§¹ dotnet format\na785e82: Merge remote-tracking branch 'origin/master'\neb2d307: ãƒ‡ãƒãƒƒã‚°ãƒ­ã‚°ã‚’è¿½åŠ \n008ce6b: åŒåã®ã‚¤ãƒ™ãƒ³ãƒˆã«å¯¾ã—ã¦ä»–ã«ãƒãƒ³ãƒ‰ãƒ©ãƒ¼ã‚’å—ã‘å–ã‚Œãªã„ã‚ˆã†ã ã£ãŸ\n3ce229e: Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1\n1ee9d92: Update dependency gitversion.tool to v5.11.1\nffe49d7: ğŸ§¹ dotnet format\ne0f8938: Publish",
     "DalamudApiLevel": 7,
     "Description": "Provide simple integration with Faloop. Mob notification in chat.",
     "DownloadLinkInstall": "https://slashnephy.github.io/Dalamud.DivinationPluginRepo/dist/stable/Divination.FaloopIntegration/latest.zip",
@@ -1045,7 +1045,7 @@
     "CategoryTags": [
       "social"
     ],
-    "Changelog": "314e729: Merge pull request #11 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1\n3775611: Update dependency gitversion.tool to v5.11.1\n4778e15: Merge pull request #4 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nUpdate dependency GitVersion.MsBuild to v5.11.1\n2675eac: Merge pull request #3 from horoscope-dev/renovate/dalamudpackager-2.x\n\nUpdate dependency DalamudPackager to v2.1.8\nc84e2e4: ?? dotnet format\nd7ddaa4: Update dependency GitVersion.MsBuild to v5.11.1\n580363e: Update dependency DalamudPackager to v2.1.8\n4afbd88: ?? dotnet format\n841b8b4: DtrBar ¤Ç¥µ©`¥Ğ©`Çéˆó¥Ğ©`¤Ë¥¤¥ó¥¹¥¿¥ó¥¹ID¤ò±íÊ¾¤¹¤ë¤è¤¦¤Ë\n1d2a188: ¥Ó¥ë¥É˜‹³É¤¬égß`¤Ã¤Æ¤¤¤¿\n983d0c9: ?? dotnet format\n0c37ca6: reusable workflow ¤òÊ¹¤¦\nd38dffc: ?? chore(renovate): update config\nf7080d1: .NET 6/Api7\n575f29e: Bump version to 6.11.0\n87fb5ed: DalamudApiLevel 5 -> 6\n55b6259: Dalamud api 5\n47e921a: Update build.yaml\nbacd86d: fix\n6d27f69: fix project name\n6577000: fix PLUGIN_PROJECT_NAME\n00685a5: rename\nbfe5652: Dlalamud API4\n0f7745f: Dlalamud API4\n240d645: Delete InstanceIDViewer.sln.DotSettings.user\nedfde33: Create README.md\nef1e4df: fix\n5c73961: init",
+    "Changelog": "314e729: Merge pull request #11 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1\n3775611: Update dependency gitversion.tool to v5.11.1\n4778e15: Merge pull request #4 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nUpdate dependency GitVersion.MsBuild to v5.11.1\n2675eac: Merge pull request #3 from horoscope-dev/renovate/dalamudpackager-2.x\n\nUpdate dependency DalamudPackager to v2.1.8\nc84e2e4: ğŸ§¹ dotnet format\nd7ddaa4: Update dependency GitVersion.MsBuild to v5.11.1\n580363e: Update dependency DalamudPackager to v2.1.8\n4afbd88: ğŸ§¹ dotnet format\n841b8b4: DtrBar ã§ã‚µãƒ¼ãƒãƒ¼æƒ…å ±ãƒãƒ¼ã«ã‚¤ãƒ³ã‚¹ã‚¿ãƒ³ã‚¹IDã‚’è¡¨ç¤ºã™ã‚‹ã‚ˆã†ã«\n1d2a188: ãƒ“ãƒ«ãƒ‰æ§‹æˆãŒé–“é•ã£ã¦ã„ãŸ\n983d0c9: ğŸ§¹ dotnet format\n0c37ca6: reusable workflow ã‚’ä½¿ã†\nd38dffc: ğŸ”§ chore(renovate): update config\nf7080d1: .NET 6/Api7\n575f29e: Bump version to 6.11.0\n87fb5ed: DalamudApiLevel 5 -> 6\n55b6259: Dalamud api 5\n47e921a: Update build.yaml\nbacd86d: fix\n6d27f69: fix project name\n6577000: fix PLUGIN_PROJECT_NAME\n00685a5: rename\nbfe5652: Dlalamud API4\n0f7745f: Dlalamud API4\n240d645: Delete InstanceIDViewer.sln.DotSettings.user\nedfde33: Create README.md\nef1e4df: fix\n5c73961: init",
     "DalamudApiLevel": 7,
     "Description": "show instance id in chat when instance changed",
     "DownloadLinkInstall": "https://slashnephy.github.io/Dalamud.DivinationPluginRepo/dist/stable/Divination.InstanceIDViewer/latest.zip",
@@ -1079,7 +1079,7 @@
       "social",
       "utility"
     ],
-    "Changelog": "3799fec: Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1\n9c1f4dd: Update dependency gitversion.tool to v5.11.1\n9a83c73: ?? dotnet format\nb7d57be: rename Template\neb35051: Initial commit",
+    "Changelog": "3799fec: Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1\n9c1f4dd: Update dependency gitversion.tool to v5.11.1\n9a83c73: ğŸ§¹ dotnet format\nb7d57be: rename Template\neb35051: Initial commit",
     "DalamudApiLevel": 7,
     "Description": "[Description]",
     "DownloadLinkInstall": "https://slashnephy.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.PerfectComplex/latest.zip",
@@ -1106,7 +1106,7 @@
     "CategoryTags": [
       "utility"
     ],
-    "Changelog": "930b290: Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nchore(deps): update dependency gitversion.tool to v5.11.1\n2fbe9fe: Merge pull request #11 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1\n7593cba: ?? dotnet format\na19a69e: chore(deps): update dependency gitversion.tool to v5.11.1\nab8761f: chore(deps): update dependency gitversion.msbuild to v5.11.1\n9c4e535: Merge remote-tracking branch 'origin/master'\nc2095ea: ¥µ¥Ö¥â¥¸¥å©`¥ë³ıÈ¥\n00c46f8: ?? dotnet format\n0db1577: API 7\n707d83e: ?? chore(renovate): update config\nc48c154: feat: Support Patch 6.1\n7245a13: feat: Support Dalamud API 5\nb2ad1e6: Update build.yml\n9a10147: Update build.yml\ncbc810c: Update build.yml\n9aca661: Update build.yml\n0d7aea6: Update build.yml\nf5b1206: Update build.yml",
+    "Changelog": "930b290: Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nchore(deps): update dependency gitversion.tool to v5.11.1\n2fbe9fe: Merge pull request #11 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1\n7593cba: ğŸ§¹ dotnet format\na19a69e: chore(deps): update dependency gitversion.tool to v5.11.1\nab8761f: chore(deps): update dependency gitversion.msbuild to v5.11.1\n9c4e535: Merge remote-tracking branch 'origin/master'\nc2095ea: ã‚µãƒ–ãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«é™¤å»\n00c46f8: ğŸ§¹ dotnet format\n0db1577: API 7\n707d83e: ğŸ”§ chore(renovate): update config\nc48c154: feat: Support Patch 6.1\n7245a13: feat: Support Dalamud API 5\nb2ad1e6: Update build.yml\n9a10147: Update build.yml\ncbc810c: Update build.yml\n9aca661: Update build.yml\n0d7aea6: Update build.yml\nf5b1206: Update build.yml",
     "DalamudApiLevel": 7,
     "Description": "Add /power save, /power balance, /power perf, /monitoroff commands for power management",
     "DownloadLinkInstall": "https://slashnephy.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.PowerUtils/latest.zip",
@@ -1167,7 +1167,7 @@
     "CategoryTags": [
       "social"
     ],
-    "Changelog": "72f71b2: ?? dotnet format\nd69d7b5: ¥¢¥Ã¥×¥°¥ì©`¥É\ne90d154: file-scoped namespace\n731b882: Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nchore(deps): update dependency gitversion.tool to v5.11.1\n7da899e: Merge pull request #11 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1\nf6033dd: ?? dotnet format\n40896cf: chore(deps): update dependency gitversion.tool to v5.11.1\ncc15592: chore(deps): update dependency gitversion.msbuild to v5.11.1\nffa0a46: ?? dotnet format\n63fc144: API 7\n54f71b8: ?? chore(renovate): update config\ne88a5f9: feat: Support Patch 6.1\n39f73bc: feat: Support Dalamud API 5",
+    "Changelog": "72f71b2: ğŸ§¹ dotnet format\nd69d7b5: ã‚¢ãƒƒãƒ—ã‚°ãƒ¬ãƒ¼ãƒ‰\ne90d154: file-scoped namespace\n731b882: Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nchore(deps): update dependency gitversion.tool to v5.11.1\n7da899e: Merge pull request #11 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1\nf6033dd: ğŸ§¹ dotnet format\n40896cf: chore(deps): update dependency gitversion.tool to v5.11.1\ncc15592: chore(deps): update dependency gitversion.msbuild to v5.11.1\nffa0a46: ğŸ§¹ dotnet format\n63fc144: API 7\n54f71b8: ğŸ”§ chore(renovate): update config\ne88a5f9: feat: Support Patch 6.1\n39f73bc: feat: Support Dalamud API 5",
     "DalamudApiLevel": 7,
     "Description": "Dalamud Plugin to add tweet function and Twitter timeline in FFXIV chat",
     "DownloadLinkInstall": "https://slashnephy.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.TwitterIntegration/latest.zip",
@@ -1194,7 +1194,7 @@
     "CategoryTags": [
       "utility"
     ],
-    "Changelog": "a9c071a: Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nchore(deps): update dependency gitversion.tool to v5.11.1\n58cbb32: Merge pull request #11 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1\nb95a902: ?? dotnet format\nfb86636: chore(deps): update dependency gitversion.tool to v5.11.1\neb8e9c9: chore(deps): update dependency gitversion.msbuild to v5.11.1\nbf74b5c: ?? dotnet format\n0f21f2f: API 7\n0f5b930: ?? chore(renovate): update config\n9808e0c: feat: Support Patch 6.1\n08b6aaf: feat: Support Dalamud API 6",
+    "Changelog": "a9c071a: Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nchore(deps): update dependency gitversion.tool to v5.11.1\n58cbb32: Merge pull request #11 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1\nb95a902: ğŸ§¹ dotnet format\nfb86636: chore(deps): update dependency gitversion.tool to v5.11.1\neb8e9c9: chore(deps): update dependency gitversion.msbuild to v5.11.1\nbf74b5c: ğŸ§¹ dotnet format\n0f21f2f: API 7\n0f5b930: ğŸ”§ chore(renovate): update config\n9808e0c: feat: Support Patch 6.1\n08b6aaf: feat: Support Dalamud API 6",
     "DalamudApiLevel": 7,
     "Description": "Add /voiceroid2 command into FFXIV. Require SimpleVoiceroid2Proxy (https://github.com/SlashNephy/SimpleVoiceroid2Proxy).",
     "DownloadLinkInstall": "https://slashnephy.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.Voiceroid2Talker/latest.zip",
@@ -1241,7 +1241,7 @@
     "Name": "Radar(a08381)",
     "InternalName": "Radar",
     "AssemblyVersion": "2.0.3.1",
-    "Description": "ÔÚÆÁÄ»ºÍÓÎÏ·µØÍ¼ÉÏÏÔÊ¾ÓÎÏ·ÊµÌåµÄÎ»ÖÃ¡£\nDisplays game objects location on screen and map.",
+    "Description": "åœ¨å±å¹•å’Œæ¸¸æˆåœ°å›¾ä¸Šæ˜¾ç¤ºæ¸¸æˆå®ä½“çš„ä½ç½®ã€‚\nDisplays game objects location on screen and map.",
     "ApplicableVersion": "any",
     "Tags": [
       "overlay",
@@ -1263,7 +1263,7 @@
     "Author": "yomishino",
     "Name": "ActionEffectRange",
     "InternalName": "ActionEffectRange",
-    "Punchline": "ÏÔÊ¾¼¼ÄÜµÄÓ°Ïì·¶Î§",
+    "Punchline": "æ˜¾ç¤ºæŠ€èƒ½çš„å½±å“èŒƒå›´",
     "AssemblyVersion": "1.4.6.3",
     "Description": "This plugin provides a visual cue on the effect range of the AoE action you just used.\n\nMay be used as a supplement/replacement to the actions' VFXs in showing effect range related information, such as where has the action landed and how large an area it covered.",
     "ApplicableVersion": "any",
@@ -1288,7 +1288,7 @@
     "Name": "PostMeteion",
     "InternalName": "PostMeteion",
     "AssemblyVersion": "1.0.0.0",
-    "Description": "Ã·µÙ¶÷»áÖ´ĞĞ¹â´ôµÄÖ¸Áî²¢»ã±¨³É¹û£¬Í¨¹ıHttpApiÓëWebhook",
+    "Description": "æ¢…è’‚æ©ä¼šæ‰§è¡Œå…‰å‘†çš„æŒ‡ä»¤å¹¶æ±‡æŠ¥æˆæœï¼Œé€šè¿‡HttpApiä¸Webhook",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/gamous/PostMeteion",
     "Tags": [
@@ -1311,7 +1311,7 @@
     "Name": "Fish Notify",
     "InternalName": "FishNotify",
     "AssemblyVersion": "4.0.0.1",
-    "Description": "µöÓãÒ§¹³Ê±¸ù¾İÒ§¹³Á¦¶È²¥·ÅÉùÒô£¬Í¬Ê±ÁÄÌì¿òÌáĞÑ",
+    "Description": "é’“é±¼å’¬é’©æ—¶æ ¹æ®å’¬é’©åŠ›åº¦æ’­æ”¾å£°éŸ³ï¼ŒåŒæ—¶èŠå¤©æ¡†æé†’",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/carvelli/Fish-Notify",
     "Tags": [
@@ -1330,7 +1330,7 @@
   {
     "Author": "LeonBlade",
     "Name": "Burning Down the House",
-    "Description": "¸ù¾İ×ø±êÒÆ¶¯×°ĞŞÎïÆ·£¬½â³ıÓÎÏ·ÏŞÖÆ¡£",
+    "Description": "æ ¹æ®åæ ‡ç§»åŠ¨è£…ä¿®ç‰©å“ï¼Œè§£é™¤æ¸¸æˆé™åˆ¶ã€‚",
     "InternalName": "BDTHPlugin",
     "AssemblyVersion": "1.5.902",
     "RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
@@ -1351,14 +1351,14 @@
     "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/BDTHPlugin/BDTHPlugin_1.5.902.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/BDTHPlugin/BDTHPlugin_1.5.902.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/BDTHPlugin/icon.png",
-    "Changelog": "1.5.902\n- cn6.4ºº»¯"
+    "Changelog": "1.5.902\n- cn6.4æ±‰åŒ–"
   },
   {
     "Author": "he0119",
     "Name": "Blind Box",
     "InternalName": "BlindBoxPlugin",
     "AssemblyVersion": "1.4.2.0",
-    "Description": "ÓÃÀ´Í³¼ÆÃ¤ºĞÖĞÎïÆ·»ñµÃÇé¿öµÄ²å¼ş¡£\n/blindbox ´ò¿ªÃ¤ºĞĞÅÏ¢½çÃæ¡£\n/blindbox config ´ò¿ªÉèÖÃ½çÃæ¡£",
+    "Description": "ç”¨æ¥ç»Ÿè®¡ç›²ç›’ä¸­ç‰©å“è·å¾—æƒ…å†µçš„æ’ä»¶ã€‚\n/blindbox æ‰“å¼€ç›²ç›’ä¿¡æ¯ç•Œé¢ã€‚\n/blindbox config æ‰“å¼€è®¾ç½®ç•Œé¢ã€‚",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/he0119/FFXIVBlindBoxPlugin",
     "Tags": [
@@ -1373,7 +1373,7 @@
       "https://raw.githubusercontent.com/he0119/FFXIVBlindBoxPlugin/main/images/image1.png"
     ],
     "IconUrl": "https://raw.githubusercontent.com/he0119/FFXIVBlindBoxPlugin/main/images/icon.png",
-    "Punchline": "²é¿´Ã¤ºĞÖĞÎïÆ·µÄ»ñµÃÇé¿ö¡£",
+    "Punchline": "æŸ¥çœ‹ç›²ç›’ä¸­ç‰©å“çš„è·å¾—æƒ…å†µã€‚",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
@@ -1386,7 +1386,7 @@
     "Author": "Youri",
     "Name": "FFXIV Money Tracker",
     "Punchline": "For when you want to know how much you spend/earn in ffxiv!",
-    "Description": "¼ÇÕË For when you want to know how much you spend/earn in ffxiv!",
+    "Description": "è®°è´¦ For when you want to know how much you spend/earn in ffxiv!",
     "InternalName": "XIVMoneyTracker",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 7,
@@ -1409,8 +1409,8 @@
     "Author": "Asvel",
     "Name": "Literal Map Link",
     "InternalName": "LiteralMapLink",
-    "Punchline": "½«µØÍ¼×ø±êÎÄ±¾×Ô¶¯×ª»»ÎªµØÍ¼Á´½Ó",
-    "Description": "ÔÚÁÄÌì¿ò·¢ËÍµØÍ¼×ø±êÎÄ±¾Ê±»á×Ô¶¯×ª»»Îª¿Éµã»÷µÄµØÍ¼Á´½Ó\nTurn map coordinates literal into interactable map link when you post in-game chat messages.\nWARNING: currently it's only tested under Chinese version FFXIV client.",
+    "Punchline": "å°†åœ°å›¾åæ ‡æ–‡æœ¬è‡ªåŠ¨è½¬æ¢ä¸ºåœ°å›¾é“¾æ¥",
+    "Description": "åœ¨èŠå¤©æ¡†å‘é€åœ°å›¾åæ ‡æ–‡æœ¬æ—¶ä¼šè‡ªåŠ¨è½¬æ¢ä¸ºå¯ç‚¹å‡»çš„åœ°å›¾é“¾æ¥\nTurn map coordinates literal into interactable map link when you post in-game chat messages.\nWARNING: currently it's only tested under Chinese version FFXIV client.",
     "Tags": [
       "Chat",
       "Utility"
@@ -1434,7 +1434,7 @@
   {
     "Author": "Chalkos",
     "Name": "Marketbuddy",
-    "Punchline": "¼ò»¯ÈÕ³£µÄÊĞ³¡³öÊÛ²Ù×÷",
+    "Punchline": "ç®€åŒ–æ—¥å¸¸çš„å¸‚åœºå‡ºå”®æ“ä½œ",
     "Description": "Helper for your day-to-day market operations.",
     "InternalName": "Marketbuddy",
     "AssemblyVersion": "0.2.2.13",
@@ -1492,7 +1492,7 @@
     ],
     "DalamudApiLevel": 7,
     "LoadPriority": 0,
-    "Punchline": "ÈÃµöÓãÃ»ÄÇÃ´ÎŞÁÄ¡£",
+    "Punchline": "è®©é’“é±¼æ²¡é‚£ä¹ˆæ— èŠã€‚",
     "IconUrl": "https://raw.githubusercontent.com/InitialDet/AutoHook/main/AutoHook/images/icon.png",
     "DownloadLinkInstall": "https://github.com/moewcorp/AutoHook/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/moewcorp/AutoHook/releases/latest/download/latest.zip",
@@ -1506,13 +1506,13 @@
     "Name": "Auto Login",
     "InternalName": "AutoLogin",
     "AssemblyVersion": "1.0.0.6",
-    "Description": "×Ô¶¯µÇÂ¼",
+    "Description": "è‡ªåŠ¨ç™»å½•",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Caraxi/AutoLogin",
     "Tags": null,
     "DalamudApiLevel": 7,
     "LoadPriority": 1,
-    "Punchline": "×Ô¶¯µÇÂ¼",
+    "Punchline": "è‡ªåŠ¨ç™»å½•",
     "IconUrl": null,
     "DownloadLinkInstall": "https://github.com/moewcorp/AutoLogin/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/moewcorp/AutoLogin/releases/latest/download/latest.zip",
@@ -1524,8 +1524,8 @@
   {
     "Author": "NightmareXIV",
     "Name": "Splatoon",
-    "Punchline": "¹ú·ş»­¼Ò 6.4CN ½âÏŞÌØ¹© ĞŞ¸´±¸·İbug ",
-    "Description": "¹ú·şÌØ¹©SPLX 6.4CN ½öÖ§³ÖÔÚÏß°²×°£¬±¾µØ¼ÓÔØÓĞÎÊÌâÇëÊ¹ÓÃ¿âÁ´½Ó¸üĞÂ¡£",
+    "Punchline": "å›½æœç”»å®¶ 6.4CN è§£é™ç‰¹ä¾› ä¿®å¤å¤‡ä»½bug ",
+    "Description": "å›½æœç‰¹ä¾›SPLX 6.4CN ä»…æ”¯æŒåœ¨çº¿å®‰è£…ï¼Œæœ¬åœ°åŠ è½½æœ‰é—®é¢˜è¯·ä½¿ç”¨åº“é“¾æ¥æ›´æ–°ã€‚",
     "InternalName": "SplatoonX",
     "AssemblyVersion": "10.3.4.3",
     "RepoUrl": "https://github.com/PunishXIV/Splatoon",
@@ -1546,7 +1546,7 @@
     "Name": "AutoMiniGame",
     "InternalName": "AutoMiniGame",
     "AssemblyVersion": "10.0.2.2",
-    "Description": "½ğµúĞ¡ÖúÊÖ£¬»Ã¿¨Ëæ±ã³é(ÔİÍ£·¢Âë)(²»ÎÈ¶¨)",
+    "Description": "é‡‘ç¢Ÿå°åŠ©æ‰‹ï¼Œå¹»å¡éšä¾¿æŠ½(æš‚åœå‘ç )(ä¸ç¨³å®š)",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/moewcorp/AutoMiniGame",
     "Tags": null,
@@ -1625,8 +1625,8 @@
   {
     "Author": "Windmourn",
     "Name": "SkipCutscene",
-    "Punchline": "ê¡Ñ§",
-    "Description": "ê¡Ñ§",
+    "Punchline": "è¾å­¦",
+    "Description": "è¾å­¦",
     "InternalName": "SkipCutscene",
     "AssemblyVersion": "1.2.2.2",
     "RepoUrl": "https://github.com/a08381/Dalamud.SkipCutscene",
@@ -1661,7 +1661,7 @@
   {
     "Author": "Adam",
     "Name": "Penumbra",
-    "Description": "ÔËĞĞÊ±mod¼ÓÔØºÍ¹ÜÀíÆ÷¡£",
+    "Description": "è¿è¡Œæ—¶modåŠ è½½å’Œç®¡ç†å™¨ã€‚",
     "InternalName": "Penumbra",
     "AssemblyVersion": "0.8.0.101",
     "TestingAssemblyVersion": "0.8.0.101",
@@ -1677,14 +1677,14 @@
     "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra_0.8.0.101.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra/Penumbra_0.8.0.101.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra//icon.png",
-    "Changelog": "0.8.0.101\n- ĞŞ¸´²¿·Ö°üº¬ÌØÊâ×Ö·ûµÄÍæ¼ÒµÄ ID ÎŞ·¨±»ÕıÈ·²¶»ñµÄÎÊÌâ£¬Ì¡µùà£à£¡£"
+    "Changelog": "0.8.0.101\n- ä¿®å¤éƒ¨åˆ†åŒ…å«ç‰¹æ®Šå­—ç¬¦çš„ç©å®¶çš„ ID æ— æ³•è¢«æ­£ç¡®æ•è·çš„é—®é¢˜ï¼Œç­çˆ¹å•µå•µã€‚"
   },
   {
     "Author": "Tischel",
     "Name": "TPieCN",
     "InternalName": "TPieCN",
     "AssemblyVersion": "1.7.1.1",
-    "Description": "¸ß¿ÉÅäÖÃĞÔµÄ»·ĞÎÈÈ¼üÀ¸£¬¿ÉÒÔÍ¨¹ı°ó¶¨ÈÈ¼ü½øĞĞÇĞ»»¡£\n¿ÉÒÔÊ¹ÓÃ¶¯×÷¡¢ÎïÆ·¡¢Ì××°ºÍºê¡£",
+    "Description": "é«˜å¯é…ç½®æ€§çš„ç¯å½¢çƒ­é”®æ ï¼Œå¯ä»¥é€šè¿‡ç»‘å®šçƒ­é”®è¿›è¡Œåˆ‡æ¢ã€‚\nå¯ä»¥ä½¿ç”¨åŠ¨ä½œã€ç‰©å“ã€å¥—è£…å’Œå®ã€‚",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Tischel/TPie",
     "Tags": [
@@ -1694,13 +1694,13 @@
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/TPie/TPieCN_1.7.1.1.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/TPie/icon.png",
-    "Punchline": "¿É×Ô¶¨ÒåµÄ»·ĞÎÈÈ¼üÀ¸",
-    "Changelog": "1.7.1.1\n- cn6.4ºº»¯"
+    "Punchline": "å¯è‡ªå®šä¹‰çš„ç¯å½¢çƒ­é”®æ ",
+    "Changelog": "1.7.1.1\n- cn6.4æ±‰åŒ–"
   },
   {
     "Author": "LeonBlade",
     "Name": "Heels Plugin",
-    "Description": "´©×Å¸ß¸úĞ¬Ê±µ÷ÕûÄãµÄ½ÇÉ«ÓëµØÃæÖ®¼äµÄ¾àÀë¡£²å¼şÒÑ±»×÷Õß¼Æ»®·ÏÆú£¬6.4»¹ÄÜÓÃ¡£°²×°ĞÂ²å¼şSimpleHeels¿Éµ¼ÈëÅäÖÃ¡£",
+    "Description": "ç©¿ç€é«˜è·Ÿé‹æ—¶è°ƒæ•´ä½ çš„è§’è‰²ä¸åœ°é¢ä¹‹é—´çš„è·ç¦»ã€‚æ’ä»¶å·²è¢«ä½œè€…è®¡åˆ’åºŸå¼ƒï¼Œ6.4è¿˜èƒ½ç”¨ã€‚å®‰è£…æ–°æ’ä»¶SimpleHeelså¯å¯¼å…¥é…ç½®ã€‚",
     "InternalName": "HeelsPlugin",
     "AssemblyVersion": "1.3.4",
     "RepoUrl": "https://github.com/LeonBlade/HeelsPlugin",
@@ -1719,13 +1719,13 @@
     "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/HeelsPlugin/HeelsPlugin_1.3.4.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/HeelsPlugin/HeelsPlugin_1.3.4.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/HeelsPlugin/icon.png",
-    "Changelog": "1.3.4\n- cn6.4ºº»¯¡£"
+    "Changelog": "1.3.4\n- cn6.4æ±‰åŒ–ã€‚"
   },
   {
     "Author": "UnknownX",
     "Name": "Cammy",
-    "Punchline": "Ò»¸ö¼òµ¥µÄÓÎÏ·Ïà»úÉèÖÃĞŞ¸ÄÆ÷",
-    "Description": "Ò»¸ö¼òµ¥µÄÏà»úĞŞ¸ÄÆ÷£¬¿ÉÒÔ¸ü¸Ä¸÷ÖÖÓÎÏ·Ä¬ÈÏÖµ£¬±ÈÈçËõ·ÅºÍÊÓ½Ç¡£\nÕâ»áÆÆ½âÓÎÏ·Ëõ·ÅÏŞÖÆ£¬Èç¹ûÄã²»Çå³ş»áÔì³ÉÊ²Ã´ºó¹û£¬²»Òª°²×°¡£",
+    "Punchline": "ä¸€ä¸ªç®€å•çš„æ¸¸æˆç›¸æœºè®¾ç½®ä¿®æ”¹å™¨",
+    "Description": "ä¸€ä¸ªç®€å•çš„ç›¸æœºä¿®æ”¹å™¨ï¼Œå¯ä»¥æ›´æ”¹å„ç§æ¸¸æˆé»˜è®¤å€¼ï¼Œæ¯”å¦‚ç¼©æ”¾å’Œè§†è§’ã€‚\nè¿™ä¼šç ´è§£æ¸¸æˆç¼©æ”¾é™åˆ¶ï¼Œå¦‚æœä½ ä¸æ¸…æ¥šä¼šé€ æˆä»€ä¹ˆåæœï¼Œä¸è¦å®‰è£…ã€‚",
     "InternalName": "Cammy",
     "RepoUrl": "https://github.com/UnknownX7/Cammy",
     "ApplicableVersion": "any",
@@ -1743,7 +1743,7 @@
     "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Cammy/Cammy_2.1.0.702.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Cammy/Cammy_2.1.0.702.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Cammy/icon.png",
-    "Changelog": "2.1.0.702\n- cn6.4ºº»¯"
+    "Changelog": "2.1.0.702\n- cn6.4æ±‰åŒ–"
   },
   {
     "Author": "AlexCSDev",
@@ -1751,7 +1751,7 @@
     "InternalName": "XIVWindowResizer",
     "AssemblyVersion": "1.0.0.0",
     "RepoUrl": "https://github.com/AlexCSDev/XIVWindowResizer",
-    "Description": "ÈÃÓÎÏ··Ö±æÂÊ²»ÊÜÏÔÊ¾Æ÷µÄ·Ö±æÂÊÏŞÖÆ¡£Ö÷ÒªÓÃÓÚÔÚ²»Ê¹ÓÃÈ«ÆÁºÍDSR/FSRµÄÇé¿öÏÂÅÄÉã¸ß·Ö±æÂÊÆÁÄ»½ØÍ¼¡£\r\nĞèÒª½«ÓÎÏ·ÉèÖÃÎªÆÕÍ¨´°¿ÚÄ£Ê½»òÕß´°¿ÚÈ«ÆÁÄ£Ê½¡£",
+    "Description": "è®©æ¸¸æˆåˆ†è¾¨ç‡ä¸å—æ˜¾ç¤ºå™¨çš„åˆ†è¾¨ç‡é™åˆ¶ã€‚ä¸»è¦ç”¨äºåœ¨ä¸ä½¿ç”¨å…¨å±å’ŒDSR/FSRçš„æƒ…å†µä¸‹æ‹æ‘„é«˜åˆ†è¾¨ç‡å±å¹•æˆªå›¾ã€‚\r\néœ€è¦å°†æ¸¸æˆè®¾ç½®ä¸ºæ™®é€šçª—å£æ¨¡å¼æˆ–è€…çª—å£å…¨å±æ¨¡å¼ã€‚",
     "ApplicableVersion": "any",
     "Tags": [
       "gpose",
@@ -1762,19 +1762,19 @@
     "LoadRequiredState": 0,
     "LoadSync": false,
     "LoadPriority": 0,
-    "Punchline": "ÕâÊÇµ÷ÕûÓÎÏ·´°¿Ú´óĞ¡µÄ²å¼ş¡£ÓĞÃ»ÓĞÏë¹ıÔÚ144pµÄÆÁÄ»ÉÏÅÄÉã8K½ØÍ¼£¿ÏÖÔÚÄã¿ÉÒÔÁË¡£",
+    "Punchline": "è¿™æ˜¯è°ƒæ•´æ¸¸æˆçª—å£å¤§å°çš„æ’ä»¶ã€‚æœ‰æ²¡æœ‰æƒ³è¿‡åœ¨144pçš„å±å¹•ä¸Šæ‹æ‘„8Kæˆªå›¾ï¼Ÿç°åœ¨ä½ å¯ä»¥äº†ã€‚",
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XIVWindowResizer/XIVWindowResizer_1.0.0.0.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XIVWindowResizer/XIVWindowResizer_1.0.0.0.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XIVWindowResizer/XIVWindowResizer_1.0.0.0.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/XIVWindowResizer/icon.png",
-    "Changelog": "1.0.0.0\n- cn6.4ºº»¯ÃüÁîËµÃ÷"
+    "Changelog": "1.0.0.0\n- cn6.4æ±‰åŒ–å‘½ä»¤è¯´æ˜"
   },
   {
     "Author": "XIV Tools",
     "Name": "Customize+",
-    "Description": "Õâ¸ö²å¼şÔÊĞíÄã´´½¨ºÍÓ¦ÓÃAnamnesisÑùÊ½µÄÉíÌåËõ·Å£¬²¢ÔÚÓÎÏ·ÖĞµÄ½ÇÉ«ÉíÉÏÊµÊ±±£³Ö¡£",
-    "Punchline": "Í»ÆÆFF14µÄÏŞÖÆ£¬×Ô¶¨ÒåÄãµÄ½ÇÉ«¡£",
+    "Description": "è¿™ä¸ªæ’ä»¶å…è®¸ä½ åˆ›å»ºå’Œåº”ç”¨Anamnesisæ ·å¼çš„èº«ä½“ç¼©æ”¾ï¼Œå¹¶åœ¨æ¸¸æˆä¸­çš„è§’è‰²èº«ä¸Šå®æ—¶ä¿æŒã€‚",
+    "Punchline": "çªç ´FF14çš„é™åˆ¶ï¼Œè‡ªå®šä¹‰ä½ çš„è§’è‰²ã€‚",
     "InternalName": "CustomizePlus",
     "AssemblyVersion": "1.2.5.6",
     "TestingAssemblyVersion": "1.2.5.6",
@@ -1788,13 +1788,13 @@
     "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/CustomizePlus_1.2.5.6.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/CustomizePlus_1.2.5.6.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/CustomizePlus/icon.png",
-    "Changelog": "1.2.5.6\n- cn6.4ºº»¯¡£"
+    "Changelog": "1.2.5.6\n- cn6.4æ±‰åŒ–ã€‚"
   },
   {
     "Author": "Chirp",
     "Name": "Ktisis",
     "InternalName": "Ktisis",
-    "Description": "Ç¿´óµÄ×ËÊÆ¹¤¾ß£¬ÓÃÓÚÔÚGPose¼¯Ìå¶¯×÷ÖĞÅÄÕÕ¡£cmp×ËÊÆÎÄ¼şµ¼ÈëÀ´×ÔYarukon¡£",
+    "Description": "å¼ºå¤§çš„å§¿åŠ¿å·¥å…·ï¼Œç”¨äºåœ¨GPoseé›†ä½“åŠ¨ä½œä¸­æ‹ç…§ã€‚cmpå§¿åŠ¿æ–‡ä»¶å¯¼å…¥æ¥è‡ªYarukonã€‚",
     "AssemblyVersion": "0.2.1810",
     "TestingAssemblyVersion": "0.2.1810",
     "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
@@ -1810,14 +1810,14 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/Ktisis_0.2.1810.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/Ktisis_0.2.1810.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Ktisis/Ktisis_0.2.1810.zip",
-    "Changelog": "0.2.18.1\n- cn6.4ºº»¯"
+    "Changelog": "0.2.18.1\n- cn6.4æ±‰åŒ–"
   },
   {
     "Author": "Chirp",
     "Name": "Palette+",
     "InternalName": "PalettePlus",
-    "Punchline": "FF14ÓÎÏ·½ÇÉ«×Ô¶¨Òåµ÷É«°å¡£",
-    "Description": "FF14ÓÎÏ·½ÇÉ«×Ô¶¨Òåµ÷É«°å¡£",
+    "Punchline": "FF14æ¸¸æˆè§’è‰²è‡ªå®šä¹‰è°ƒè‰²æ¿ã€‚",
+    "Description": "FF14æ¸¸æˆè§’è‰²è‡ªå®šä¹‰è°ƒè‰²æ¿ã€‚",
     "AssemblyVersion": "0.3.10",
     "TestingAssemblyVersion": "0.3.10",
     "RepoUrl": "https://github.com/chirpxiv/PalettePlus",
@@ -1833,14 +1833,14 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/PalettePlus/PalettePlus_0.3.10.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/PalettePlus/PalettePlus_0.3.10.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/PalettePlus/PalettePlus_0.3.10.zip",
-    "Changelog": "0.3.10\n- cn6.4ºº»¯£¬¹ú·ş¹æÔò¡£"
+    "Changelog": "0.3.10\n- cn6.4æ±‰åŒ–ï¼Œå›½æœè§„åˆ™ã€‚"
   },
   {
     "Author": "Caraxi",
     "Name": "Simple Heels",
     "InternalName": "SimpleHeels",
-    "Description": "´©×Å¸ß¸úĞ¬Ê±µ÷ÕûÄãµÄ½ÇÉ«ÓëµØÃæÖ®¼äµÄ¾àÀë£¬ÁíÒ»¸ö¸ß¸úĞ¬²å¼ş£¬¹¦ÄÜ¸üÇ¿´ó¡£",
-    "Punchline": "´©×Å¸ß¸úĞ¬Ê±µ÷ÕûÄãµÄ½ÇÉ«ÓëµØÃæÖ®¼äµÄ¾àÀë£¬ÁíÒ»¸ö¸ß¸úĞ¬²å¼ş£¬¹¦ÄÜ¸üÇ¿´ó¡£",
+    "Description": "ç©¿ç€é«˜è·Ÿé‹æ—¶è°ƒæ•´ä½ çš„è§’è‰²ä¸åœ°é¢ä¹‹é—´çš„è·ç¦»ï¼Œå¦ä¸€ä¸ªé«˜è·Ÿé‹æ’ä»¶ï¼ŒåŠŸèƒ½æ›´å¼ºå¤§ã€‚",
+    "Punchline": "ç©¿ç€é«˜è·Ÿé‹æ—¶è°ƒæ•´ä½ çš„è§’è‰²ä¸åœ°é¢ä¹‹é—´çš„è·ç¦»ï¼Œå¦ä¸€ä¸ªé«˜è·Ÿé‹æ’ä»¶ï¼ŒåŠŸèƒ½æ›´å¼ºå¤§ã€‚",
     "RepoUrl": "https://github.com/Caraxi/SimpleHeels",
     "AssemblyVersion": "0.8.0.0",
     "ApplicableVersion": "any",
@@ -1850,12 +1850,12 @@
     "DownloadLinkInstall": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SimpleHeels/SimpleHeels_0.8.0.0.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SimpleHeels/SimpleHeels_0.8.0.0.zip",
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/SimpleHeels/SimpleHeels_0.8.0.0.zip",
-    "Changelog": "0.8.0.0\n- cn6.4ºº»¯¡£"
+    "Changelog": "0.8.0.0\n- cn6.4æ±‰åŒ–ã€‚"
   },
   {
     "Author": "Asgard",
     "Name": "Brio",
-    "Description": "ÔÚ¼¯Ìå¶¯×÷Ä£Ê½ÖĞ¿ØÖÆ²ÎÓëµÄ½ÇÉ«¡£",
+    "Description": "åœ¨é›†ä½“åŠ¨ä½œæ¨¡å¼ä¸­æ§åˆ¶å‚ä¸çš„è§’è‰²ã€‚",
     "InternalName": "Brio",
     "AssemblyVersion": "0.1.8.801",
     "TestingAssemblyVersion": "0.1.8.801",
@@ -1876,7 +1876,7 @@
   {
     "Author": "Asgard",
     "Name": "XAT",
-    "Description": "´´½¨±à¼­¶¯×÷ºÍ¾µÍ·¿ØÖÆ",
+    "Description": "åˆ›å»ºç¼–è¾‘åŠ¨ä½œå’Œé•œå¤´æ§åˆ¶",
     "InternalName": "XAT.Plugin",
     "AssemblyVersion": "2023.1.11.2051",
     "TestingAssemblyVersion": "2023.1.11.2051",
@@ -1898,7 +1898,7 @@
     "Author": "Xiv Tools",
     "Name": "Screenshot Studio",
     "InternalName": "ScreenshotStudio",
-    "Description": "¼¯Ìå¶¯×÷ÔöÇ¿",
+    "Description": "é›†ä½“åŠ¨ä½œå¢å¼º",
     "AssemblyVersion": "1.0.0.52",
     "TestingAssemblyVersion": "1.0.0.52",
     "RepoUrl": "https://github.com/XIV-Tools/ScreenshotStudio",
