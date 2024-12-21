@@ -225,5 +225,58 @@
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/a5daae97d600c6dc43b074f27544d91774f3177a/plugins/XIVComboVX/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/a5daae97d600c6dc43b074f27544d91774f3177a/plugins/XIVComboVX/latest.zip"
+  },
+  {
+    "Author": "daemitus, croizat",
+    "Name": "Something Need Doing (Expanded Edition)",
+    "InternalName": "SomethingNeedDoing",
+    "AssemblyVersion": "1.53.0.0",
+    "Description": "Now for more than crafting!",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
+    "DalamudApiLevel": 10,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/Jaksuhn/SomethingNeedDoing/master/res/orc2.png",
+    "Punchline": "Work work.",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/StackExplode/FFXIVOldPlugins/master/releases/SomethingNeedDoing-1.53.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/StackExplode/FFXIVOldPlugins/master/releases/SomethingNeedDoing-1.53.zip"
+  },
+  {
+    "Author": "Kouzukii, VeroFess，tmingyuan",
+    "Name": "Price Insight CN",
+    "InternalName": "PriceInsightCN",
+    "AssemblyVersion": "2.8.0.1",
+    "Description": "每当您将鼠标悬停在商品上时, 这个插件都会在底部显示 NQ/HQ 市场价格以及最近购买的价格.\n价格从 Universalis.app 检索并缓存 90 分钟。\n要刷新价格, 您可以将鼠标悬停在某个项目上的同时点击 Alt .\n",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/t-mingyuan/ffxiv-priceinsightCN",
+    "Tags": [
+      "marketboard",
+      "items",
+      "price",
+      "CN"
+    ],
+    "CategoryTags": [
+      "ui",
+      "utility"
+    ],
+    "DalamudApiLevel": 10,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/t-mingyuan/ffxiv-priceinsightCN/main/images/imagecn.png",
+      "https://raw.githubusercontent.com/t-mingyuan/ffxiv-priceinsightCN/main/images/image1.png",
+      "https://raw.githubusercontent.com/t-mingyuan/ffxiv-priceinsightCN/main/images/image2.png"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/t-mingyuan/ffxiv-priceinsightCN/main/images/icon.png",
+    "Punchline": "在鼠标悬停时查看商品市场价格! 该插件为Price Insight的汉化版。",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/StackExplode/FFXIVOldPlugins/master/releases/PriceInsightCN.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/StackExplode/FFXIVOldPlugins/master/releases/PriceInsightCN.zip",
+    "DownloadLinkTest": "https://github.com/t-mingyuan/ffxiv-priceinsightCN/archive/refs/heads/main.zip"
   }
 ]
