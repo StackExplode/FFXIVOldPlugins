@@ -298,5 +298,64 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/StackExplode/FFXIVOldPlugins/master/releases/DalamudRepoBrowser.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/StackExplode/FFXIVOldPlugins/master/releases/DalamudRepoBrowser.zip",
     "DalamudApiLevel": 10
+  },
+  {
+    "Author": "daemitus, MidoriKami",
+    "Name": "ezFauxHollows",
+    "InternalName": "FauxHollowsSolver",
+    "AssemblyVersion": "1.4.0.0",
+    "Description": "This plugin highlights tiles in Faux Hollows that represent the best potential action you can take.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/MidoriKami/FauxHollowsSolver",
+    "DalamudApiLevel": 10,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Highlights recommended tiles in Faux Hollows for your next move.",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/StackExplode/FFXIVOldPlugins/master/releases/EzFauxHollows.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/StackExplode/FFXIVOldPlugins/master/releases/EzFauxHollows.zip"
+  },
+  {
+    "Author": "Haselnussbomber",
+    "Name": "LeveHelper",
+    "InternalName": "LeveHelper",
+    "AssemblyVersion": "2.4.0.0",
+    "Description": "A little helper to check which Levequests have been completed and which are missing.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Haselnussbomber/LeveHelper",
+    "DalamudApiLevel": 10,
+    "LoadRequiredState": 1,
+    "LoadSync": false,
+    "CanUnloadAsync": true,
+    "LoadPriority": 0,
+    "Punchline": "A little helper for Levequests.",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Haselnussbomber/LeveHelper/releases/download/v2.4.0/latest.zip"
+  },
+  {
+    "Author": "Asteria Nocturna",
+    "Name": "Divination.AetheryteLinkInChat",
+    "InternalName": "AetheryteLinkInChat",
+    "AssemblyVersion": "7.0.2.0",
+    "Description": "Display a teleport link to the nearest aetherite for the map link from the in-game chat. Type /alic to configure the plugin.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "teleporter"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "DalamudApiLevel": 10,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Quick teleport for mob hunts and treasure hunts!",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/SlashNephy/divination-distrib/b1f0eb5f2ebf52faf5dd4a5aee9b6a2a31f2612c/plugins/stable/AetheryteLinkInChat/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/SlashNephy/divination-distrib/b1f0eb5f2ebf52faf5dd4a5aee9b6a2a31f2612c/plugins/stable/AetheryteLinkInChat/latest.zip"
   }
 ]
