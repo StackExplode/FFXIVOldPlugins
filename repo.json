@@ -24,19 +24,19 @@
     "Author": "NightmareXIV",
     "Name": "Mini",
     "InternalName": "Mini.NXIV",
-    "AssemblyVersion": "2.1.0.4",
+    "AssemblyVersion": "2.1.1.2",
     "Description": "Additionally can minimize game to tray or create game's tray icon",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/NightmareXIV/Mini",
-    "DalamudApiLevel": 10,
+    "DalamudApiLevel": 13,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "Adds a button and a command to minimize your game into taskbar",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/NightmareXIV/Mini/releases/download/2.1.0.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/NightmareXIV/Mini/releases/download/2.1.0.4/latest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/StackExplode/FFXIVOldPlugins/master/releases/mini.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/StackExplode/FFXIVOldPlugins/master/releases/mini.zip"
   },
   {
     "Author": "NightmareXIV",
