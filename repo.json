@@ -23,7 +23,7 @@
   {
     "Author": "NightmareXIV",
     "Name": "Mini",
-    "InternalName": "Mini.NXIV",
+    "InternalName": "Mini",
     "AssemblyVersion": "2.1.1.2",
     "Description": "Additionally can minimize game to tray or create game's tray icon",
     "ApplicableVersion": "any",
