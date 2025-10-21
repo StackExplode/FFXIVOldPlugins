@@ -244,26 +244,6 @@
     "DownloadLinkTest": "https://github.com/t-mingyuan/ffxiv-priceinsightCN/archive/refs/heads/main.zip"
   },
   {
-    "Author": "UnknownX",
-    "Name": "DalamudRepoBrowser",
-    "Punchline": "Browse and add third party repositories in an instant",
-    "Description": "An interface for browsing and managing third party repositories.",
-    "IconUrl": "",
-    "ImageUrls": [
-      ""
-    ],
-    "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser",
-    "CategoryTags": [
-      "other"
-    ],
-    "InternalName": "DalamudRepoBrowser",
-    "AssemblyVersion": "9.9.9.9",
-    "Changelog": "",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/StackExplode/FFXIVOldPlugins/master/releases/DalamudRepoBrowser.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/StackExplode/FFXIVOldPlugins/master/releases/DalamudRepoBrowser.zip",
-    "DalamudApiLevel": 10
-  },
-  {
     "Author": "daemitus, MidoriKami",
     "Name": "ezFauxHollows",
     "InternalName": "FauxHollowsSolver",
