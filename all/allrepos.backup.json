@@ -1,40 +1,6 @@
 [
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.4",
-    "Author": "[Author]",
-    "CategoryTags": [
-      "other",
-      "jobs",
-      "ui",
-      "minigames",
-      "inventory",
-      "sound",
-      "social",
-      "utility"
-    ],
-    "Changelog": "3799fec: Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1\n9c1f4dd: Update dependency gitversion.tool to v5.11.1\n9a83c73: ?? dotnet format\nb7d57be: rename Template\neb35051: Initial commit",
-    "DalamudApiLevel": 7,
-    "Description": "[Description]",
-    "DownloadLinkInstall": "https://slashnephy.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.PerfectComplex/latest.zip",
-    "DownloadLinkTesting": "https://slashnephy.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.PerfectComplex/latest.zip",
-    "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
-    "ImageUrls": [],
-    "InternalName": "Divination.PerfectComplex",
-    "IsHide": false,
-    "IsTestingExclusive": true,
-    "LastUpdated": 1669399132,
-    "LoadPriority": 0,
-    "Name": "[Name]",
-    "Punchline": "[Punchline]",
-    "RepoUrl": "https://github.com/horoscope-dev/Divination.PerfectComplex",
-    "Tags": [
-      "[Tag]"
-    ],
-    "TestingAssemblyVersion": "0.1.0.4"
-  },
-  {
-    "ApplicableVersion": "any",
     "AssemblyVersion": "0.1.0.0",
     "Author": "[Author]",
     "CategoryTags": [
@@ -66,6 +32,40 @@
       "[Tag]"
     ],
     "TestingAssemblyVersion": "0.1.0.0"
+  },
+  {
+    "ApplicableVersion": "any",
+    "AssemblyVersion": "0.1.0.4",
+    "Author": "[Author]",
+    "CategoryTags": [
+      "other",
+      "jobs",
+      "ui",
+      "minigames",
+      "inventory",
+      "sound",
+      "social",
+      "utility"
+    ],
+    "Changelog": "3799fec: Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1\n9c1f4dd: Update dependency gitversion.tool to v5.11.1\n9a83c73: ?? dotnet format\nb7d57be: rename Template\neb35051: Initial commit",
+    "DalamudApiLevel": 7,
+    "Description": "[Description]",
+    "DownloadLinkInstall": "https://slashnephy.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.PerfectComplex/latest.zip",
+    "DownloadLinkTesting": "https://slashnephy.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.PerfectComplex/latest.zip",
+    "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
+    "ImageUrls": [],
+    "InternalName": "Divination.PerfectComplex",
+    "IsHide": false,
+    "IsTestingExclusive": true,
+    "LastUpdated": 1669399132,
+    "LoadPriority": 0,
+    "Name": "[Name]",
+    "Punchline": "[Punchline]",
+    "RepoUrl": "https://github.com/horoscope-dev/Divination.PerfectComplex",
+    "Tags": [
+      "[Tag]"
+    ],
+    "TestingAssemblyVersion": "0.1.0.4"
   },
   {
     "Author": "Sebastina",
@@ -266,6 +266,141 @@
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/QiongHHHZZZ/Artisan/releases/download/v4.0.5.15001/Artisan.zip",
     "DownloadLinkUpdate": "https://github.com/QiongHHHZZZ/Artisan/releases/download/v4.0.5.15001/Artisan.zip"
+  },
+  {
+    "Author": "jkleinne",
+    "Name": "Ascended Dagobert",
+    "InternalName": "ascended-dagobert",
+    "Description": "Personal fork of Dagobert, the automatic market board undercut plugin. Adds bait listing protection so a 1-unit decoy at 5 gil can't drag your retainer prices to the floor while real stacks sit at 1.2k. If you don't need that, install upstream Dagobert instead.",
+    "Punchline": "Personal fork of Dagobert.",
+    "RepoUrl": "https://github.com/jkleinne/ascended-dagobert",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
+    "Tags": [
+      "Utility"
+    ],
+    "CategoryTags": [
+      "other"
+    ],
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsTestingExclusive": false,
+    "IconUrl": "",
+    "AcceptsFeedback": true,
+    "AssemblyVersion": "1.0.0.22",
+    "TestingAssemblyVersion": "1.0.0.22",
+    "DownloadLinkInstall": "https://github.com/jkleinne/ascended-dagobert/releases/download/1.0.0.22/latest.zip",
+    "DownloadLinkTesting": "https://github.com/jkleinne/ascended-dagobert/releases/download/1.0.0.22/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/jkleinne/ascended-dagobert/releases/download/1.0.0.22/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": 1781612517
+  },
+  {
+    "Author": "jkleinne",
+    "Name": "Ascended ezWondrousTails",
+    "InternalName": "ascended-ezwondroustails",
+    "Description": "Personal fork of MidoriKami's EzWondrousTails, ported to Dalamud API 15 after the upstream repository was archived. Injects row probabilities, exact shuffle averages, and shuffle advice into the Wondrous Tails journal, and adds a standalone plugin window so the same information is reachable when the journal isn't open.",
+    "Punchline": "Wondrous Tails row probabilities, on API 15.",
+    "RepoUrl": "https://github.com/jkleinne/ascended-EzWondrousTails",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
+    "Tags": [
+      "wondrous-tails",
+      "probability",
+      "utility"
+    ],
+    "CategoryTags": [
+      "other"
+    ],
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsTestingExclusive": false,
+    "IconUrl": "https://raw.githubusercontent.com/jkleinne/ascended-EzWondrousTails/master/res/icon.png",
+    "AcceptsFeedback": true,
+    "AssemblyVersion": "1.3.3.0",
+    "TestingAssemblyVersion": "1.3.3.0",
+    "DownloadLinkInstall": "https://github.com/jkleinne/ascended-EzWondrousTails/releases/download/1.3.3/latest.zip",
+    "DownloadLinkTesting": "https://github.com/jkleinne/ascended-EzWondrousTails/releases/download/1.3.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/jkleinne/ascended-EzWondrousTails/releases/download/1.3.3/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": 1781183109
+  },
+  {
+    "Author": "jkleinne",
+    "Name": "Ascended Ledger",
+    "InternalName": "ascended-ledger",
+    "Description": "Market and retainer-sales intelligence for FFXIV. Reads your own retainer listings and completed sales from the game client and pairs them with board-wide market context (listings, sales history, velocity) from the Universalis API.",
+    "Punchline": "Market and retainer-sales intelligence.",
+    "RepoUrl": "https://github.com/jkleinne/ascended-ledger",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
+    "Tags": [
+      "market",
+      "marketboard",
+      "retainer",
+      "sales",
+      "universalis"
+    ],
+    "CategoryTags": [
+      "other"
+    ],
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsTestingExclusive": false,
+    "IconUrl": "",
+    "AcceptsFeedback": true,
+    "AssemblyVersion": "0.5.0.0",
+    "TestingAssemblyVersion": "0.5.0.0",
+    "DownloadLinkInstall": "https://github.com/jkleinne/ascended-ledger/releases/download/0.5.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/jkleinne/ascended-ledger/releases/download/0.5.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/jkleinne/ascended-ledger/releases/download/0.5.0/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": 1781594435
+  },
+  {
+    "Author": "jkleinne",
+    "Name": "Ascended Rotation Solver Reborn",
+    "InternalName": "ascended-rotationsolverreborn",
+    "Description": "Personal fork of RotationSolverReborn that adds PvPSmart, a scoring-based PvP target selector. PvE behavior matches upstream.\n\nThe stock PvP cycle ranks targets by absolute current HP, which biases toward tanks over genuinely vulnerable squishies. PvPSmart composes weighted factors (role value, effective HP, finish-kill bias, mitigation penalty, distance, hysteresis, crystal carrier, LB cast, isolation, threat) and skips invuln targets entirely, producing more focus-fire-friendly target selection in Crystalline Conflict.\n\nUse only if you specifically want the PvPSmart targeting mode. For general use, install upstream RotationSolverReborn instead.",
+    "Punchline": "PvPSmart target selection on top of RotationSolverReborn.",
+    "RepoUrl": "https://github.com/jkleinne/ascended-rotationsolverreborn",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
+    "Tags": [
+      "combat",
+      "rotation",
+      "auto",
+      "solver",
+      "pve",
+      "pvp"
+    ],
+    "CategoryTags": [
+      "jobs"
+    ],
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsTestingExclusive": false,
+    "IconUrl": "https://raw.githubusercontent.com/jkleinne/ascended-rotationsolverreborn/main/Images/Logo.png",
+    "AcceptsFeedback": true,
+    "AssemblyVersion": "1.0.0.48",
+    "TestingAssemblyVersion": "1.0.0.49",
+    "DownloadLinkInstall": "https://github.com/jkleinne/ascended-rotationsolverreborn/releases/download/1.0.0.48/latest.zip",
+    "DownloadLinkTesting": "https://github.com/jkleinne/ascended-rotationsolverreborn/releases/download/testing/1.0.0.49/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/jkleinne/ascended-rotationsolverreborn/releases/download/1.0.0.48/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": 1781514609
   },
   {
     "Author": "Aida Enna",
@@ -1065,6 +1200,32 @@
     "TestingAssemblyVersion": "0.1.0.84"
   },
   {
+    "Author": "Asteria Nocturna",
+    "Name": "Divination.FaloopIntegration",
+    "Punchline": "Faloop Notification in Chat",
+    "Description": "Show Faloop mob spawn notifications in in-game chat. Type /faloop to configure the plugin.",
+    "Changelog": "1ee92ce: api15\n17e73c5: Merge pull request #739 from SlashNephy/renovate/gitversion.tool-6.x\n\nUpdate dependency gitversion.tool to v6.7.0\n5465f48: Merge pull request #741 from SlashNephy/renovate/actions-download-artifact-8.x\n\nUpdate actions/download-artifact action to v8.0.1\n495d5fb: Merge pull request #745 from SlashNephy/renovate/actions-upload-artifact-7.x\n\nUpdate actions/upload-artifact action to v7.0.1\nca18991: Merge pull request #744 from SlashNephy/renovate/peter-evans-create-pull-request-8.x\n\nUpdate peter-evans/create-pull-request action to v8.1.1\nab2633c: Update actions/upload-artifact action to v7.0.1\n7a41ac8: Update peter-evans/create-pull-request action to v8.1.1\nd92a045: chore(deps): update dependency gitversion.tool to v6.7.0\nce0a761: chore(deps): update actions/download-artifact action to v8.0.1\nd1eb739: Merge pull request #740 from SlashNephy/renovate/major-github-artifact-actions\n\nchore(deps): update github artifact actions (major)\n53bc1e8: chore(deps): update github artifact actions\n7a99714: chore(deps): update peter-evans/create-pull-request action to v8.1.0 (#734)\n\nCo-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>\nb93b015: chore(deps): update actions/checkout action to v6.0.2 (#735)\n\nCo-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>\n923acf1: adjust CI trigger\n1b3387d: Merge pull request #733 from SlashNephy/chore/ignore-abandoned-projects\n\nRenovate: ignore abandoned projects\n1058fe1: fix typo\n\nCo-authored-by: Copilot <175728472+Copilot@users.noreply.github.com>\n9e2b7dd: also track .csproj\n0e86a4a: upgrade Horoscope\n9cb4877: ignore abandoned projects\n5f322b5: Merge pull request #731 from SlashNephy/chore/track-dalamud-api-level\n\nuse goatcorp/Dalamud tags to track DalamudApiLevel updates\nad009d4: use goatcorp/Dalamud tags to track DalamudApiLevel updates\n7997300: Merge pull request #730 from SlashNephy/cleanup\n\nCleanup\n11e94ef: track TargetFramework with Renovate\n53e4cf1: configure TargetFramework via Directory.Build.props\na5707a2: no longer submodules do not exist\n375eaa9: format\n5bd517d: should stage packages.lock.json\n1e48f42: remove Debugger, Voiceroid2Talker from solution\n3ab9c4e: Visual Studio 2026\n55a885d: Update README with disclaimer and installation steps\n\nAdded disclaimer and installation instructions for plugins.",
+    "Tags": [
+      "mobhunt"
+    ],
+    "CategoryTags": [
+      "social",
+      "utility"
+    ],
+    "InternalName": "FaloopIntegration",
+    "AssemblyVersion": "7.5.0.0",
+    "TestingAssemblyVersion": "7.5.0.0",
+    "RepoUrl": "https://github.com/SlashNephy/Divination",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
+    "DownloadCount": 24299,
+    "LastUpdate": 1778771521,
+    "DownloadLinkInstall": "https://xiv.starry.blue/plugins/stable/FaloopIntegration/download",
+    "DownloadLinkTesting": "https://xiv.starry.blue/plugins/testing/FaloopIntegration/download",
+    "AcceptsFeedback": true
+  },
+  {
     "ApplicableVersion": "any",
     "AssemblyVersion": "0.1.0.17",
     "Author": "Asteria Nocturna",
@@ -1091,32 +1252,6 @@
       "mobhunt"
     ],
     "TestingAssemblyVersion": "0.1.0.30"
-  },
-  {
-    "Author": "Asteria Nocturna",
-    "Name": "Divination.FaloopIntegration",
-    "Punchline": "Faloop Notification in Chat",
-    "Description": "Show Faloop mob spawn notifications in in-game chat. Type /faloop to configure the plugin.",
-    "Changelog": "1ee92ce: api15\n17e73c5: Merge pull request #739 from SlashNephy/renovate/gitversion.tool-6.x\n\nUpdate dependency gitversion.tool to v6.7.0\n5465f48: Merge pull request #741 from SlashNephy/renovate/actions-download-artifact-8.x\n\nUpdate actions/download-artifact action to v8.0.1\n495d5fb: Merge pull request #745 from SlashNephy/renovate/actions-upload-artifact-7.x\n\nUpdate actions/upload-artifact action to v7.0.1\nca18991: Merge pull request #744 from SlashNephy/renovate/peter-evans-create-pull-request-8.x\n\nUpdate peter-evans/create-pull-request action to v8.1.1\nab2633c: Update actions/upload-artifact action to v7.0.1\n7a41ac8: Update peter-evans/create-pull-request action to v8.1.1\nd92a045: chore(deps): update dependency gitversion.tool to v6.7.0\nce0a761: chore(deps): update actions/download-artifact action to v8.0.1\nd1eb739: Merge pull request #740 from SlashNephy/renovate/major-github-artifact-actions\n\nchore(deps): update github artifact actions (major)\n53bc1e8: chore(deps): update github artifact actions\n7a99714: chore(deps): update peter-evans/create-pull-request action to v8.1.0 (#734)\n\nCo-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>\nb93b015: chore(deps): update actions/checkout action to v6.0.2 (#735)\n\nCo-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>\n923acf1: adjust CI trigger\n1b3387d: Merge pull request #733 from SlashNephy/chore/ignore-abandoned-projects\n\nRenovate: ignore abandoned projects\n1058fe1: fix typo\n\nCo-authored-by: Copilot <175728472+Copilot@users.noreply.github.com>\n9e2b7dd: also track .csproj\n0e86a4a: upgrade Horoscope\n9cb4877: ignore abandoned projects\n5f322b5: Merge pull request #731 from SlashNephy/chore/track-dalamud-api-level\n\nuse goatcorp/Dalamud tags to track DalamudApiLevel updates\nad009d4: use goatcorp/Dalamud tags to track DalamudApiLevel updates\n7997300: Merge pull request #730 from SlashNephy/cleanup\n\nCleanup\n11e94ef: track TargetFramework with Renovate\n53e4cf1: configure TargetFramework via Directory.Build.props\na5707a2: no longer submodules do not exist\n375eaa9: format\n5bd517d: should stage packages.lock.json\n1e48f42: remove Debugger, Voiceroid2Talker from solution\n3ab9c4e: Visual Studio 2026\n55a885d: Update README with disclaimer and installation steps\n\nAdded disclaimer and installation instructions for plugins.",
-    "Tags": [
-      "mobhunt"
-    ],
-    "CategoryTags": [
-      "social",
-      "utility"
-    ],
-    "InternalName": "FaloopIntegration",
-    "AssemblyVersion": "7.5.0.0",
-    "TestingAssemblyVersion": "7.5.0.0",
-    "RepoUrl": "https://github.com/SlashNephy/Divination",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 15,
-    "TestingDalamudApiLevel": 15,
-    "DownloadCount": 24299,
-    "LastUpdate": 1778771521,
-    "DownloadLinkInstall": "https://xiv.starry.blue/plugins/stable/FaloopIntegration/download",
-    "DownloadLinkTesting": "https://xiv.starry.blue/plugins/testing/FaloopIntegration/download",
-    "AcceptsFeedback": true
   },
   {
     "ApplicableVersion": "any",
@@ -2999,6 +3134,26 @@
     "LastUpdate": 1777712019
   },
   {
+    "Author": "NightmareXIV,Errer(本地特化)",
+    "Name": "Splatoon",
+    "Punchline": "国服画家 7.4CN 解限特供，",
+    "Description": "国服特供SPLX 7.4CN ",
+    "InternalName": "SplatoonX",
+    "AssemblyVersion": "13.8.4.0",
+    "RepoUrl": "https://github.com/PunishXIV/Splatoon",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "IconUrl": "https://love.puni.sh/resources/splatoon.png",
+    "ImageUrls": [],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/moewcorp/SplatoonX/releases/download/13.8.4.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/moewcorp/SplatoonX/releases/download/13.8.4.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/moewcorp/SplatoonX/releases/download/13.8.4.0/latest.zip",
+    "DownloadCount": 1251154,
+    "LastUpdated": "0"
+  },
+  {
     "Author": "NightmareXIV",
     "Name": "Splatoon",
     "Punchline": "Scriptable overlay engine for drawing mechanics, markers, and indicators in real-time",
@@ -3021,26 +3176,6 @@
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.8/install/testing.zip",
     "TestingDalamudApiLevel": "15",
     "IconUrl": "https://puni.sh/api/plugins/icon/10"
-  },
-  {
-    "Author": "NightmareXIV,Errer(本地特化)",
-    "Name": "Splatoon",
-    "Punchline": "国服画家 7.4CN 解限特供，",
-    "Description": "国服特供SPLX 7.4CN ",
-    "InternalName": "SplatoonX",
-    "AssemblyVersion": "13.8.4.0",
-    "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
-    "IconUrl": "https://love.puni.sh/resources/splatoon.png",
-    "ImageUrls": [],
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/moewcorp/SplatoonX/releases/download/13.8.4.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/moewcorp/SplatoonX/releases/download/13.8.4.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/moewcorp/SplatoonX/releases/download/13.8.4.0/latest.zip",
-    "DownloadCount": 1251154,
-    "LastUpdated": "0"
   },
   {
     "Author": "NiGuangOwO",
